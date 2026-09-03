@@ -1,0 +1,20 @@
+{
+  "name": "torrentsearch",
+  "version": "1.0.0",
+  "description": "Self-hosted torrent search engine. No third-party APIs. Frontend on GitHub Pages, data refreshed by GitHub Actions.",
+  "private": true,
+  "scripts": {
+    "start": "node server/index.js",
+    "scrape": "node server/scrape.js",
+    "serve": "node server/index.js",
+    "test": "node server/test/mock.test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

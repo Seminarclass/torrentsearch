@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0a0e1a">
+  <title>TorrentSearch — Self-Hosted Torrent Search Engine</title>
+  <meta name="description" content="A self-hosted torrent search engine. Searches across 1337x, Nyaa, YTS, Knaben, BitSearch, Internet Archive, TokyoToshokan, and TorrentDownload. No third-party APIs.">
+  <link rel="canonical" href="https://seminarclass.github.io/torrentsearch/">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <meta property="og:title" content="TorrentSearch — Self-Hosted Torrent Search Engine">
+  <meta property="og:description" content="Search across 8+ torrent indexes. No third-party APIs. Self-hosted.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://seminarclass.github.io/torrentsearch/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "TorrentSearch",
+    "description": "A self-hosted torrent search engine",
+    "url": "https://seminarclass.github.io/torrentsearch/"
+  }
+  </script>
+</head>
+<body>
+  <div class="bg-orbs" aria-hidden="true">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+
+  <header class="topbar">
+    <a href="#" class="logo">
+      <span class="logo-mark">T</span>
+      <span class="logo-name">TorrentSearch</span>
+    </a>
+    <div class="search-box">
+      <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input type="search" id="search" placeholder="Search torrents…" autocomplete="off" spellcheck="false">
+      <kbd>/</kbd>
+    </div>
+    <div class="status" id="status" title="Backend status">
+      <span class="status-dot" id="statusDot"></span>
+      <span id="statusText">checking…</span>
+    </div>
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+      <svg class="sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+      <svg class="moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+    </button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1 class="hero-title">
+        Find <span class="gradient-text">torrents</span>, fast.
+      </h1>
+      <p class="hero-sub">
+        Searches across <strong>8+ public torrent indexes</strong> simultaneously.
+        Self-hosted. No third-party APIs. No tracking.
+      </p>
+
+      <div class="big-search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="search" id="bigSearch" placeholder="Try 'ubuntu', 'debian', 'nodejs'…" autocomplete="off" spellcheck="false" autofocus>
+        <span class="big-search-hint">⏎</span>
+      </div>
+
+      <div class="category-chips" id="catChips">
+        <button class="chip active" data-cat="all">All</button>
+        <button class="chip" data-cat="movies">Movies</button>
+        <button class="chip" data-cat="tv">TV</button>
+        <button class="chip" data-cat="games">Games</button>
+        <button class="chip" data-cat="music">Music</button>
+        <button class="chip" data-cat="apps">Apps</button>
+        <button class="chip" data-cat="books">Books</button>
+        <button class="chip" data-cat="anime">Anime</button>
+        <button class="chip" data-cat="software">Software</button>
+        <button class="chip" data-cat="other">Other</button>
+      </div>
+
+      <div class="hero-stats" id="heroStats">
+        <div class="stat"><div class="stat-num" id="statProviders">0</div><div class="stat-label">Providers</div></div>
+        <div class="stat"><div class="stat-num" id="statQueries">0</div><div class="stat-label">Live queries</div></div>
+        <div class="stat"><div class="stat-num" id="statUpdated">—</div><div class="stat-label">Last scrape</div></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div id="results" class="results">
+          <div class="empty">
+            <div class="empty-icon">🔍</div>
+            <div class="empty-title">Search for a torrent</div>
+            <div class="empty-sub">Type a query above or press <kbd>/</kbd> to focus the search bar.</div>
+            <div class="empty-hint">All searches are performed in your browser via the self-hosted backend, or fall back to the latest cached scrape from GitHub Actions.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-providers">
+      <div class="container">
+        <div class="section-head">
+          <h2>Search providers</h2>
+          <p>Direct, in-house scrapers — no third-party APIs.</p>
+        </div>
+        <div class="provider-grid" id="providerGrid"></div>
+      </div>
+    </section>
+
+    <section class="section section-how">
+      <div class="container">
+        <div class="section-head">
+          <h2>How it works</h2>
+          <p>Two deployment modes. Both run entirely on GitHub.</p>
+        </div>
+        <div class="how-grid">
+          <div class="how-card">
+            <div class="how-num">1</div>
+            <h3>Self-hosted backend (recommended)</h3>
+            <p>Run <code>node server/index.js</code> on any host. The frontend calls <code>/api/search</code> directly for live, fresh results. Free tier hosts that work: Railway, Render, fly.io.</p>
+          </div>
+          <div class="how-card">
+            <div class="how-num">2</div>
+            <h3>GitHub Actions only</h3>
+            <p>No backend needed. A scheduled workflow runs the scraper every hour, commits the latest results to <code>data/latest.json</code>, and the static frontend reads from that file.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <p>© TorrentSearch · Self-hosted · No third-party APIs · Open source on
+          <a href="https://github.com/Seminarclass/torrentsearch" target="_blank" rel="noopener">GitHub</a>
+        </p>
+        <p class="muted small">For educational purposes only. Respect copyright laws in your jurisdiction.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

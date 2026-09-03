@@ -1,0 +1,52 @@
+name: Scrape and deploy
+
+on:
+  # Run every hour to keep the latest.json cache fresh
+  schedule:
+    - cron: "0 * * * *"
+  # Also run on every push to main so manual updates are reflected
+  push:
+    branches: [ main ]
+  # Manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Run scrape (refreshes data/latest.json)
+        env:
+          # Add any provider-specific env vars here in repo secrets
+          NODE_OPTIONS: "--max-old-space-size=2048"
+        run: node server/scrape.js --queries=ubuntu,debian,linux,arch,nodejs,python,vscode,windows 11,github,open source,debian 12,kali linux,manjaro,fedora,mint,freebsd,arch linux,elementary os,zorin --per-query=8 --limit=40
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh cached scrape results [skip ci]"
+            git push
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

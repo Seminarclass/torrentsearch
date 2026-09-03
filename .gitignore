@@ -1,0 +1,7 @@
+# GitHub Actions
+node_modules/
+data/latest.json
+*.log
+.env
+.DS_Store
+dist/
