@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-09-03T15:33:49.184Z",
+  "queries": [
+    "ubuntu",
+    "debian",
+    "arch",
+    "linux",
+    "nodejs",
+    "python"
+  ],
+  "category": "all",
+  "totalResults": 6,
+  "totalProviders": 8,
+  "providers": [
+    {
+      "id": "1337x",
+      "name": "1337x",
+      "hits": 0,
+      "ok": true,
+      "totalMs": 1232
+    },
+    {
+      "id": "nyaa",
+      "name": "Nyaa",
+      "hits": 76,
+      "ok": true,
+      "totalMs": 4076
+    },
+    {
+      "id": "yts",
+      "name": "YTS",
+      "hits": 0,
+      "ok": true,
+      "totalMs": 535
+    },
+    {
+      "id": "knaben",
+      "name": "Knaben",
+      "hits": 0,
+      "ok": true,
+      "totalMs": 2003
+    },
+    {
+      "id": "archive",
+      "name": "Internet Archive",
+      "hits": 0,
+      "ok": true,
+      "totalMs": 4255
+    },
+    {
+      "id": "bitsearch",
+      "name": "BitSearch",
+      "hits": 0,
+      "ok": false,
+      "totalMs": 16248
+    },
+    {
+      "id": "tokyotoshokan",
+      "name": "TokyoToshokan",
+      "hits": 0,
+      "ok": false,
+      "totalMs": 51351
+    },
+    {
+      "id": "torrentdownload",
+      "name": "TorrentDownload",
+      "hits": 0,
+      "ok": true,
+      "totalMs": 2996
+    }
+  ],
+  "results": [
+    {
+      "name": "10 [Debian] Sakura Trick [BD 1080p Hi10] [FLAC]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "16.2 GiB",
+      "sizeBytes": 17394617549,
+      "seeders": 6,
+      "leechers": 0,
+      "completed": 265,
+      "date": "2022-02-03 14:26",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1486155#comments",
+      "description": "",
+      "query": "debian"
+    },
+    {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E17 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.0 GiB",
+      "sizeBytes": 1073741824,
+      "seeders": 205,
+      "leechers": 2,
+      "completed": 2335,
+      "date": "2026-08-08 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2143369",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E15 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.1 GiB",
+      "sizeBytes": 1181116006,
+      "seeders": 139,
+      "leechers": 1,
+      "completed": 2212,
+      "date": "2026-07-25 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2137017",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.1 GiB",
+      "sizeBytes": 1181116006,
+      "seeders": 118,
+      "leechers": 1,
+      "completed": 2010,
+      "date": "2026-07-18 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2134091",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.1 GiB",
+      "sizeBytes": 1181116006,
+      "seeders": 105,
+      "leechers": 0,
+      "completed": 2215,
+      "date": "2026-06-13 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2121086",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 103,
+      "leechers": 1,
+      "completed": 2157,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    }
+  ]
+}
