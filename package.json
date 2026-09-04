@@ -1,7 +1,8 @@
 {
   "name": "torrentsearch",
   "version": "1.0.0",
-  "description": "Self-hosted torrent search engine. No third-party APIs. Frontend on GitHub Pages, data refreshed by GitHub Actions.",
+  "description": "Self-hosted torrent search engine. No third-party APIs. Frontend on GitHub Pages, data refreshed by GitHub Actions hourly.",
+  "type": "module",
   "private": true,
   "scripts": {
     "start": "node server/index.js",

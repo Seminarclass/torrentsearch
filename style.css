@@ -128,6 +128,59 @@ kbd {
 .status-dot.cache { background: var(--warning); }
 .status-dot.error { background: var(--error); }
 
+.settings-btn {
+  width: 40px; height: 40px; border-radius: 10px;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text-dim); transition: all .2s var(--ease);
+  font-size: 18px;
+}
+.settings-btn:hover { background: var(--bg-card); color: var(--accent); }
+
+.settings-overlay {
+  position: fixed; inset: 0; z-index: 100;
+  background: rgba(0,0,0,.7);
+  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  display: flex; align-items: flex-start; justify-content: center;
+  padding-top: 12vh; padding-left: 20px; padding-right: 20px;
+  animation: fadeIn .2s var(--ease);
+}
+.settings-overlay[hidden] { display: none !important; }
+.settings-modal {
+  width: 100%; max-width: 560px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  animation: slideDown .25s var(--ease);
+}
+@keyframes slideDown { from { transform: translateY(-20px) scale(0.96); opacity: 0; } to { transform: translateY(0) scale(1); opacity: 1; } }
+.settings-head {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+}
+.settings-head h2 { font-size: 17px; font-weight: 700; }
+.settings-body { padding: 20px; }
+.settings-label { display: block; font-size: 13px; font-weight: 600; margin: 16px 0 6px; }
+.settings-label:first-of-type { margin-top: 0; }
+.settings-input {
+  width: 100%; padding: 12px 14px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text); font-size: 14px;
+  font-family: var(--mono);
+  outline: none;
+  transition: all .2s var(--ease);
+}
+.settings-input:focus { border-color: var(--accent); box-shadow: 0 0 0 4px rgba(99,102,241,.15); }
+.settings-row { display: flex; gap: 8px; margin-top: 16px; }
+.settings-help { margin-top: 24px; padding-top: 20px; border-top: 1px solid var(--border); }
+.settings-help h3 { font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.settings-help pre { background: var(--bg-soft); padding: 12px; border-radius: 8px; overflow-x: auto; margin-bottom: 8px; }
+.settings-help pre code { font-size: 12px; color: var(--text-dim); background: transparent; padding: 0; }
+
 .theme-toggle {
   width: 40px; height: 40px; border-radius: 10px;
   display: flex; align-items: center; justify-content: center;

@@ -27,14 +27,17 @@
     selectedCategory: 'all',
   };
 
+  // Backend URL is configurable via localStorage so the user can point this
+  // GitHub-Pages-hosted frontend at their own home-PC backend.
+  const SAVED_BACKEND = localStorage.getItem('backendUrl') || '';
+
   async function detectMode() {
     const dot = document.getElementById('statusDot');
     const text = document.getElementById('statusText');
-    // Try backend on a few candidate URLs (self-hosted: /api, GH Pages: no backend)
-    const candidates = [
-      '/api/health',                          // same-origin (self-hosted)
-      `${location.origin}/api/health`,         // explicit
-    ];
+    // Build candidate list: configured backend first, then same-origin
+    const candidates = [];
+    if (SAVED_BACKEND) candidates.push(SAVED_BACKEND.replace(/\/+$/, '') + '/api/health');
+    candidates.push('/api/health');
     for (const url of candidates) {
       try {
         const r = await fetch(url, { cache: 'no-store' });
@@ -48,17 +51,21 @@
         }
       } catch {}
     }
-    // Fall back to cache
     state.mode = 'cache';
     dot.classList.add('cache');
     text.textContent = 'cache mode';
   }
 
   async function fetchProviders() {
-    try {
-      const r = await fetch('/api/providers', { cache: 'no-store' });
-      if (r.ok) return (await r.json()).providers || [];
-    } catch {}
+    const urls = [];
+    if (SAVED_BACKEND) urls.push(SAVED_BACKEND.replace(/\/+$/, '') + '/api/providers');
+    urls.push('/api/providers');
+    for (const url of urls) {
+      try {
+        const r = await fetch(url, { cache: 'no-store' });
+        if (r.ok) return (await r.json()).providers || [];
+      } catch {}
+    }
     return [];
   }
 
@@ -110,8 +117,11 @@
     if (state.mode === 'live') {
       try {
         const params = new URLSearchParams({ q: query, category, limit: 80 });
-        const r = await fetch(`/api/search?${params}`, { cache: 'no-store' });
-        if (seq !== searchSeq) return; // stale
+        const searchUrl = SAVED_BACKEND
+          ? SAVED_BACKEND.replace(/\/+$/, '') + `/api/search?${params}`
+          : `/api/search?${params}`;
+        const r = await fetch(searchUrl, { cache: 'no-store' });
+        if (seq !== searchSeq) return;
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         const data = await r.json();
         renderResults(data);
@@ -287,6 +297,30 @@
     return String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
 
+  // ----- Settings modal -----
+  const settingsOverlay = document.getElementById('settingsOverlay');
+  const backendUrlInput = document.getElementById('backendUrl');
+  document.getElementById('settingsBtn').addEventListener('click', () => {
+    backendUrlInput.value = localStorage.getItem('backendUrl') || '';
+    settingsOverlay.hidden = false;
+    backendUrlInput.focus();
+  });
+  document.getElementById('closeSettings').addEventListener('click', () => { settingsOverlay.hidden = true; });
+  settingsOverlay.addEventListener('click', (e) => { if (e.target === settingsOverlay) settingsOverlay.hidden = true; });
+  document.getElementById('saveSettings').addEventListener('click', () => {
+    const url = backendUrlInput.value.trim();
+    if (url) localStorage.setItem('backendUrl', url.replace(/\/+$/, ''));
+    else localStorage.removeItem('backendUrl');
+    settingsOverlay.hidden = true;
+    location.reload();  // reload to re-detect mode
+  });
+  document.getElementById('resetSettings').addEventListener('click', () => {
+    localStorage.removeItem('backendUrl');
+    backendUrlInput.value = '';
+    settingsOverlay.hidden = true;
+    location.reload();
+  });
+
   // ----- Wire up search inputs -----
   const big = document.getElementById('bigSearch');
   const top = document.getElementById('search');
@@ -314,6 +348,8 @@
   document.addEventListener('keydown', (e) => {
     const tag = (e.target.tagName || '').toLowerCase();
     const isInput = ['input', 'textarea'].includes(tag);
+    if (e.key === '/' && !isInput && !document.getElementById('settingsOverlay').hidden === false) { e.preventDefault(); big.focus(); big.select(); }
+    if (e.key === 'Escape' && !settingsOverlay.hidden) { settingsOverlay.hidden = true; return; }
     if (e.key === '/' && !isInput) { e.preventDefault(); big.focus(); big.select(); }
     if (e.key === 'Escape') { if (isInput) e.target.blur(); }
   });

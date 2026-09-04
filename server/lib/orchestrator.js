@@ -10,8 +10,25 @@ import { InternetArchive } from "../providers/archive.js";
 import { BitSearch } from "../providers/bitsearch.js";
 import { TokyoToshokan } from "../providers/tokyotoshokan.js";
 import { TorrentDownload } from "../providers/torrentdownload.js";
+import { AcademicTorrents } from "../providers/academictorrents.js";
+import { LinuxTracker } from "../providers/linuxtracker.js";
+import { Eztv } from "../providers/eztv.js";
 
-const ALL_PROVIDERS = [X1337, Nyaa, Yts, Knaben, InternetArchive, BitSearch, TokyoToshokan, TorrentDownload];
+const ALL_PROVIDERS = [
+  // Free / always-accessible providers first (most reliable)
+  AcademicTorrents,    // works from anywhere, clean JSON
+  InternetArchive,     // public-domain content
+  LinuxTracker,        // Linux ISOs
+  Eztv,                // TV shows, JSON API
+  // Often-blocked-by-datacenter providers (work from home IPs)
+  Nyaa,                // anime, RSS
+  Yts,                 // movies
+  Knaben,              // meta-search
+  BitSearch,           // meta-search
+  TokyoToshokan,       // anime
+  TorrentDownload,     // general
+  X1337,               // general
+];
 
 let _instances = null;
 export function getProviders() {

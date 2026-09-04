@@ -47,11 +47,43 @@
       <span class="status-dot" id="statusDot"></span>
       <span id="statusText">checking…</span>
     </div>
+    <button class="settings-btn" id="settingsBtn" title="Backend settings" aria-label="Settings">⚙</button>
     <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
       <svg class="sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
       <svg class="moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
     </button>
   </header>
+
+  <!-- Settings modal -->
+  <div class="settings-overlay" id="settingsOverlay" hidden>
+    <div class="settings-modal">
+      <div class="settings-head">
+        <h2>Backend settings</h2>
+        <button class="close-overlay" id="closeSettings">ESC</button>
+      </div>
+      <div class="settings-body">
+        <p class="muted small">Torrent sites often block datacenter IPs. If you want full results, run the backend on your own machine (where the IP isn't blocked) and point the frontend to it here.</p>
+
+        <label class="settings-label">Backend URL</label>
+        <input type="text" id="backendUrl" placeholder="http://localhost:4000" class="settings-input">
+        <p class="muted small">Leave empty to use the bundled GitHub Actions cache. <code>http://localhost:4000</code> works for local dev.</p>
+
+        <div class="settings-row">
+          <button class="action-btn primary" id="saveSettings">Save & Test</button>
+          <button class="action-btn" id="resetSettings">Reset to default</button>
+        </div>
+
+        <div class="settings-help">
+          <h3>How to run the backend</h3>
+          <pre><code>git clone https://github.com/Seminarclass/torrentsearch
+cd torrentsearch
+npm install
+PORT=4000 node server/index.js</code></pre>
+          <p class="muted small">If running on another machine in your network, use its LAN IP, e.g. <code>http://192.168.1.42:4000</code>.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <main>
     <section class="hero">
