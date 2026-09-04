@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:13:50.850Z",
+  "generatedAt": "2026-09-04T21:58:08.069Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 3021
+      "totalMs": 2211
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 2091
+      "totalMs": 2494
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 466
+      "totalMs": 543
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 522
+      "totalMs": 468
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7678
+      "totalMs": 7559
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 790
+      "totalMs": 1104
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2282
+      "totalMs": 2088
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 779
+      "totalMs": 825
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": false,
-      "totalMs": 68135
+      "totalMs": 65778
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": true,
-      "totalMs": 2350
+      "ok": false,
+      "totalMs": 80009
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2712
+      "totalMs": 2600
     }
   ],
   "results": [
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 202,
+      "seeders": 201,
       "leechers": 2,
-      "completed": 2336,
+      "completed": 2338,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 141,
+      "seeders": 144,
       "leechers": 1,
       "completed": 2214,
       "date": "2026-07-25 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 116,
+      "seeders": 118,
       "leechers": 1,
       "completed": 2012,
       "date": "2026-07-18 09:02",
@@ -320,9 +320,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 110,
+      "seeders": 109,
       "leechers": 0,
-      "completed": 2217,
+      "completed": 2220,
       "date": "2026-06-13 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -354,9 +354,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 92,
+      "seeders": 91,
       "leechers": 2,
-      "completed": 880,
+      "completed": 885,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 83,
+      "seeders": 84,
       "leechers": 1,
       "completed": 2188,
       "date": "2026-05-30 09:02",
@@ -383,19 +383,19 @@
       "query": "arch"
     },
     {
-      "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "name": "Ascendance of a Bookworm S04E17 Holding the Fort During the Archduke Conference 1080p CR WEB-DL DUAL AAC2.0 H.264-VARYG (Honzuki no Gekokujou: Ryoushu no Youjo, Dual-Audio, Multi-Subs)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 72,
+      "seeders": 71,
       "leechers": 0,
-      "completed": 823,
-      "date": "2026-07-25 09:32",
+      "completed": 821,
+      "date": "2026-08-22 09:32",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2137027",
+      "detailsUrl": "/view/2149648",
       "description": "",
       "query": "arch"
     },
@@ -406,8 +406,8 @@
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
       "seeders": 18,
-      "leechers": 5,
-      "completed": 7262,
+      "leechers": 4,
+      "completed": 7264,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,8 +422,8 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 12,
-      "leechers": 2,
+      "seeders": 10,
+      "leechers": 3,
       "completed": 4799,
       "date": "2024-04-26 21:44",
       "category": "Anime",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 8,
+      "seeders": 7,
       "leechers": 0,
       "completed": 339,
       "date": "2025-09-18 17:31",
@@ -464,6 +464,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1954600#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "23.6 MiB",
+      "sizeBytes": 24746394,
+      "seeders": 4,
+      "leechers": 1,
+      "completed": 417,
+      "date": "2020-02-01 11:49",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1217160",
       "description": "",
       "query": "windows"
     },
@@ -508,30 +525,13 @@
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 3,
-      "leechers": 2,
+      "leechers": 1,
       "completed": 1227,
       "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1679300#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "23.6 MiB",
-      "sizeBytes": 24746394,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 417,
-      "date": "2020-02-01 11:49",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1217160",
       "description": "",
       "query": "windows"
     }
