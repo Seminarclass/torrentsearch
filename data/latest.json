@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T02:23:32.121Z",
+  "generatedAt": "2026-09-04T07:33:35.209Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1520
+      "totalMs": 1894
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 365
+      "totalMs": 3491
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 433
+      "totalMs": 927
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 292
+      "totalMs": 914
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8934
+      "totalMs": 9139
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 818
+      "totalMs": 1379
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2694
+      "totalMs": 3168
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 707
+      "totalMs": 1641
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
-      "ok": true,
-      "totalMs": 28560
+      "ok": false,
+      "totalMs": 71445
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": false,
-      "totalMs": 80001
+      "ok": true,
+      "totalMs": 3552
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2612
+      "totalMs": 4733
     }
   ],
   "results": [
@@ -128,29 +128,12 @@
       "query": "debian"
     },
     {
-      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "67.1 MiB",
-      "sizeBytes": 70359450,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 267,
-      "date": "2014-12-25 18:57",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/638686",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
       "magnet": "",
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 1,
+      "seeders": 3,
       "leechers": 0,
       "completed": 26,
       "date": "2015-03-06 16:33",
@@ -158,6 +141,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662994",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "67.1 MiB",
+      "sizeBytes": 70359450,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 267,
+      "date": "2014-12-25 18:57",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/638686",
       "description": "",
       "query": "linux"
     },
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 191,
+      "seeders": 200,
       "leechers": 2,
       "completed": 2335,
       "date": "2026-08-08 09:02",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 138,
+      "seeders": 143,
       "leechers": 1,
       "completed": 2212,
       "date": "2026-07-25 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 116,
+      "seeders": 112,
       "leechers": 1,
       "completed": 2010,
       "date": "2026-07-18 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 106,
+      "seeders": 104,
       "leechers": 0,
       "completed": 2215,
       "date": "2026-06-13 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 105,
+      "seeders": 103,
       "leechers": 1,
       "completed": 2157,
       "date": "2026-06-27 09:05",
@@ -354,9 +354,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 94,
+      "seeders": 87,
       "leechers": 1,
-      "completed": 870,
+      "completed": 871,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 84,
+      "seeders": 80,
       "leechers": 1,
       "completed": 2186,
       "date": "2026-05-30 09:02",
@@ -388,9 +388,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 61,
+      "seeders": 63,
       "leechers": 0,
-      "completed": 816,
+      "completed": 818,
       "date": "2026-08-22 09:32",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 22,
-      "leechers": 4,
-      "completed": 7257,
+      "seeders": 20,
+      "leechers": 5,
+      "completed": 7260,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -434,23 +434,6 @@
       "query": "windows"
     },
     {
-      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "434.3 MiB",
-      "sizeBytes": 455396557,
-      "seeders": 6,
-      "leechers": 0,
-      "completed": 339,
-      "date": "2025-09-18 17:31",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2021233#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
       "magnet": "",
       "torrentFile": "",
@@ -468,14 +451,48 @@
       "query": "windows"
     },
     {
+      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "434.3 MiB",
+      "sizeBytes": 455396557,
+      "seeders": 4,
+      "leechers": 0,
+      "completed": 339,
+      "date": "2025-09-18 17:31",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2021233#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "116.4 MiB",
+      "sizeBytes": 122054246,
+      "seeders": 4,
+      "leechers": 0,
+      "completed": 111,
+      "date": "2026-07-24 07:40",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2136680",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
       "magnet": "",
       "torrentFile": "",
       "size": "23.6 MiB",
       "sizeBytes": 24746394,
-      "seeders": 4,
-      "leechers": 1,
-      "completed": 416,
+      "seeders": 3,
+      "leechers": 0,
+      "completed": 417,
       "date": "2020-02-01 11:49",
       "category": "Anime",
       "provider": "Nyaa",
@@ -490,7 +507,7 @@
       "torrentFile": "",
       "size": "7.2 GiB",
       "sizeBytes": 7730941133,
-      "seeders": 4,
+      "seeders": 3,
       "leechers": 0,
       "completed": 489,
       "date": "2020-07-12 23:36",
@@ -502,36 +519,19 @@
       "query": "windows"
     },
     {
-      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
       "magnet": "",
       "torrentFile": "",
-      "size": "116.4 MiB",
-      "sizeBytes": 122054246,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 110,
-      "date": "2026-07-24 07:40",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2136680",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
       "seeders": 2,
       "leechers": 0,
-      "completed": 1227,
-      "date": "2023-06-05 00:12",
+      "completed": 92,
+      "date": "2025-08-05 18:19",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
