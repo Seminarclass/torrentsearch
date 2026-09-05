@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:44:22.842Z",
+  "generatedAt": "2026-09-05T02:08:41.248Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1900
+      "totalMs": 2138
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1620
+      "totalMs": 2227
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 281
+      "totalMs": 564
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 311
+      "totalMs": 551
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 6679
+      "totalMs": 6917
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 819
+      "totalMs": 945
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1955
+      "totalMs": 2083
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 614
+      "totalMs": 873
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
-      "ok": true,
-      "totalMs": 55479
+      "ok": false,
+      "totalMs": 48194
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2044
+      "totalMs": 2603
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 3467
+      "totalMs": 2624
     }
   ],
   "results": [
@@ -133,7 +133,7 @@
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 1,
+      "seeders": 2,
       "leechers": 0,
       "completed": 26,
       "date": "2015-03-06 16:33",
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 199,
+      "seeders": 200,
       "leechers": 2,
       "completed": 2338,
       "date": "2026-08-08 09:02",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 143,
+      "seeders": 144,
       "leechers": 1,
       "completed": 2214,
       "date": "2026-07-25 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 116,
+      "seeders": 117,
       "leechers": 1,
       "completed": 2013,
       "date": "2026-07-18 09:02",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1010.1 MiB",
-      "sizeBytes": 1059166618,
-      "seeders": 110,
-      "leechers": 1,
-      "completed": 2159,
-      "date": "2026-06-27 09:05",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2125781",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 108,
+      "seeders": 109,
       "leechers": 0,
       "completed": 2220,
       "date": "2026-06-13 09:02",
@@ -349,14 +332,31 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 108,
+      "leechers": 1,
+      "completed": 2159,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[Yameii] Ascendance of a Bookworm - S04E18 v2 [English Dub] [CR WEB-DL 1080p H264 AAC] [4C163B0F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 95,
+      "seeders": 92,
       "leechers": 3,
-      "completed": 887,
+      "completed": 890,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 85,
+      "seeders": 84,
       "leechers": 1,
       "completed": 2188,
       "date": "2026-05-30 09:02",
@@ -388,9 +388,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 70,
-      "leechers": 0,
-      "completed": 821,
+      "seeders": 73,
+      "leechers": 1,
+      "completed": 823,
       "date": "2026-08-22 09:32",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,8 +422,8 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 11,
-      "leechers": 1,
+      "seeders": 10,
+      "leechers": 2,
       "completed": 4799,
       "date": "2024-04-26 21:44",
       "category": "Anime",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 0,
       "completed": 339,
       "date": "2025-09-18 17:31",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 6,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -468,19 +468,19 @@
       "query": "windows"
     },
     {
-      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
+      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
       "magnet": "",
       "torrentFile": "",
-      "size": "23.6 MiB",
-      "sizeBytes": 24746394,
+      "size": "7.2 GiB",
+      "sizeBytes": 7730941133,
       "seeders": 4,
       "leechers": 0,
-      "completed": 417,
-      "date": "2020-02-01 11:49",
+      "completed": 489,
+      "date": "2020-07-12 23:36",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1217160",
+      "detailsUrl": "/view/1262215",
       "description": "",
       "query": "windows"
     },
@@ -502,36 +502,36 @@
       "query": "windows"
     },
     {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
+      "name": "│2D.G.F.│ ＊自炊品 [160826] [5pb.／ホビボックス] STEINS；GATE 0 -シュタインズ・ゲート・ゼロ- for Windows PC DL版 + 同梱特典 RemixMedley",
       "magnet": "",
       "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
+      "size": "6.9 GiB",
+      "sizeBytes": 7408818586,
       "seeders": 3,
-      "leechers": 1,
-      "completed": 1227,
-      "date": "2023-06-05 00:12",
+      "leechers": 0,
+      "completed": 3149,
+      "date": "2016-09-08 05:46",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
+      "detailsUrl": "/view/848204",
       "description": "",
       "query": "windows"
     },
     {
-      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
+      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
       "magnet": "",
       "torrentFile": "",
-      "size": "7.2 GiB",
-      "sizeBytes": 7730941133,
+      "size": "23.6 MiB",
+      "sizeBytes": 24746394,
       "seeders": 3,
       "leechers": 0,
-      "completed": 489,
-      "date": "2020-07-12 23:36",
+      "completed": 417,
+      "date": "2020-02-01 11:49",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1262215",
+      "detailsUrl": "/view/1217160",
       "description": "",
       "query": "windows"
     }
