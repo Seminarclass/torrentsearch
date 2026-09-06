@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T17:26:03.675Z",
+  "generatedAt": "2026-09-06T19:47:50.181Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 924
+      "totalMs": 2582
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 375
+      "totalMs": 2104
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 371
+      "totalMs": 443
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 264
+      "totalMs": 423
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 9639
+      "totalMs": 7013
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 608
+      "totalMs": 856
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2553
+      "totalMs": 2257
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 739
+      "totalMs": 807
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": false,
-      "totalMs": 72138
+      "totalMs": 61762
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2835
+      "totalMs": 3999
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2451
+      "totalMs": 2455
     }
   ],
   "results": [
@@ -133,7 +133,7 @@
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 2,
+      "seeders": 1,
       "leechers": 0,
       "completed": 26,
       "date": "2015-03-06 16:33",
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 548,
+      "seeders": 538,
       "leechers": 10,
-      "completed": 2205,
+      "completed": 2209,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 206,
+      "seeders": 202,
       "leechers": 3,
       "completed": 2343,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 151,
+      "seeders": 148,
       "leechers": 2,
       "completed": 2221,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 124,
+      "seeders": 116,
       "leechers": 2,
       "completed": 2017,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 106,
+      "seeders": 104,
       "leechers": 0,
       "completed": 2225,
       "date": "2026-06-13 09:02",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 100,
+      "seeders": 101,
       "leechers": 1,
-      "completed": 600,
+      "completed": 611,
       "date": "2026-09-05 09:35",
       "category": "Anime",
       "provider": "Nyaa",
@@ -383,19 +383,19 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E08 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "name": "[Yameii] Ascendance of a Bookworm - S04E18 v2 [English Dub] [CR WEB-DL 1080p H264 AAC] [4C163B0F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
-      "size": "1.1 GiB",
-      "sizeBytes": 1181116006,
-      "seeders": 82,
-      "leechers": 1,
-      "completed": 2192,
-      "date": "2026-05-30 09:02",
+      "size": "1.4 GiB",
+      "sizeBytes": 1503238554,
+      "seeders": 85,
+      "leechers": 4,
+      "completed": 942,
+      "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2115751",
+      "detailsUrl": "/view/2153600",
       "description": "",
       "query": "arch"
     },
@@ -405,7 +405,7 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 20,
+      "seeders": 22,
       "leechers": 4,
       "completed": 7275,
       "date": "2024-04-26 20:13",
@@ -422,7 +422,7 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 12,
+      "seeders": 11,
       "leechers": 1,
       "completed": 4801,
       "date": "2024-04-26 21:44",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 4,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -464,40 +464,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1954600#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "4 [AniFolder v1.0] No More Yellow Folders — Anime Cover Art Applied Automatically, Windows",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "635.1 KiB",
-      "sizeBytes": 650342,
-      "seeders": 4,
-      "leechers": 2,
-      "completed": 115,
-      "date": "2026-09-06 12:39",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2157297#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
-      "seeders": 4,
-      "leechers": 2,
-      "completed": 1227,
-      "date": "2023-06-05 00:12",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
@@ -515,6 +481,40 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1262215",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "116.4 MiB",
+      "sizeBytes": 122054246,
+      "seeders": 4,
+      "leechers": 1,
+      "completed": 111,
+      "date": "2026-07-24 07:40",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2136680",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
+      "seeders": 3,
+      "leechers": 2,
+      "completed": 1227,
+      "date": "2023-06-05 00:12",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
