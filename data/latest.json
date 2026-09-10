@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:41:43.744Z",
+  "generatedAt": "2026-09-10T02:15:01.440Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1908
+      "totalMs": 1450
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 931
+      "totalMs": 1021
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 1373
+      "totalMs": 344
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 1424
+      "totalMs": 388
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8443
+      "totalMs": 7435
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 1233
+      "totalMs": 628
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 3489
+      "totalMs": 1401
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 1820
+      "totalMs": 379
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
-      "ok": false,
-      "totalMs": 67681
+      "ok": true,
+      "totalMs": 508
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 5238
+      "totalMs": 5594
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 6677
+      "totalMs": 1941
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 7,
+      "seeders": 5,
       "leechers": 0,
       "completed": 265,
       "date": "2022-02-03 14:26",
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 434,
+      "seeders": 424,
       "leechers": 2,
-      "completed": 2274,
+      "completed": 2277,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 183,
+      "seeders": 179,
       "leechers": 0,
       "completed": 2345,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 146,
+      "seeders": 144,
       "leechers": 0,
       "completed": 2223,
       "date": "2026-07-25 09:02",
@@ -320,9 +320,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 119,
+      "seeders": 117,
       "leechers": 0,
-      "completed": 2019,
+      "completed": 2020,
       "date": "2026-07-18 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 104,
+      "seeders": 102,
       "leechers": 0,
       "completed": 2225,
       "date": "2026-06-13 09:02",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 76,
+      "seeders": 73,
       "leechers": 0,
       "completed": 2193,
       "date": "2026-05-30 09:02",
@@ -388,9 +388,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 71,
+      "seeders": 73,
       "leechers": 0,
-      "completed": 989,
+      "completed": 990,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -406,8 +406,8 @@
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
       "seeders": 17,
-      "leechers": 4,
-      "completed": 7287,
+      "leechers": 5,
+      "completed": 7288,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 9,
-      "leechers": 3,
-      "completed": 4814,
+      "seeders": 10,
+      "leechers": 2,
+      "completed": 4815,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -468,23 +468,6 @@
       "query": "windows"
     },
     {
-      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "116.4 MiB",
-      "sizeBytes": 122054246,
-      "seeders": 4,
-      "leechers": 1,
-      "completed": 111,
-      "date": "2026-07-24 07:40",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2136680",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
       "magnet": "",
       "torrentFile": "",
@@ -502,13 +485,30 @@
       "query": "windows"
     },
     {
+      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "116.4 MiB",
+      "sizeBytes": 122054246,
+      "seeders": 3,
+      "leechers": 1,
+      "completed": 111,
+      "date": "2026-07-24 07:40",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2136680",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 2,
-      "leechers": 2,
+      "leechers": 1,
       "completed": 1229,
       "date": "2023-06-05 00:12",
       "category": "Anime",
