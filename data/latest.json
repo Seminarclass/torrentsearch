@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:33:08.550Z",
+  "generatedAt": "2026-09-12T19:53:47.790Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 2708
+      "totalMs": 1012
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1559
+      "totalMs": 857
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 649
+      "totalMs": 818
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 683
+      "totalMs": 810
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7943
+      "totalMs": 8451
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 787
+      "totalMs": 492
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2820
+      "totalMs": 2074
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 1098
+      "totalMs": 906
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1142
+      "totalMs": 966
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": false,
-      "totalMs": 80004
+      "ok": true,
+      "totalMs": 4147
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 4458
+      "totalMs": 3772
     }
   ],
   "results": [
@@ -128,23 +128,6 @@
       "query": "debian"
     },
     {
-      "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "99.4 MiB",
-      "sizeBytes": 104228454,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 26,
-      "date": "2015-03-06 16:33",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/662994",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
       "magnet": "",
       "torrentFile": "",
@@ -158,6 +141,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "99.4 MiB",
+      "sizeBytes": 104228454,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 26,
+      "date": "2015-03-06 16:33",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/662994",
       "description": "",
       "query": "linux"
     },
@@ -219,7 +219,7 @@
       "size": "2.9 GiB",
       "sizeBytes": 3113851290,
       "seeders": 0,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 0,
       "date": "2010-12-21 21:28",
       "category": "Anime",
@@ -269,8 +269,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 376,
-      "leechers": 4,
+      "seeders": 375,
+      "leechers": 3,
       "completed": 2307,
       "date": "2026-09-05 09:05",
       "category": "Anime",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 179,
+      "seeders": 184,
       "leechers": 1,
       "completed": 2349,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 143,
+      "seeders": 147,
       "leechers": 1,
       "completed": 2225,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 110,
+      "seeders": 114,
       "leechers": 1,
       "completed": 2021,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 100,
+      "seeders": 99,
       "leechers": 0,
       "completed": 2225,
       "date": "2026-06-13 09:02",
@@ -354,7 +354,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 96,
+      "seeders": 97,
       "leechers": 1,
       "completed": 2165,
       "date": "2026-06-27 09:05",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 74,
+      "seeders": 76,
       "leechers": 1,
       "completed": 2193,
       "date": "2026-05-30 09:02",
@@ -383,38 +383,21 @@
       "query": "arch"
     },
     {
-      "name": "[Yameii] Ascendance of a Bookworm - S04E18 v2 [English Dub] [CR WEB-DL 1080p H264 AAC] [4C163B0F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
+      "name": "Ascendance of a Bookworm S04E16 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 70,
-      "leechers": 1,
-      "completed": 1008,
-      "date": "2026-08-30 03:09",
+      "seeders": 68,
+      "leechers": 0,
+      "completed": 769,
+      "date": "2026-08-01 09:32",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2153600",
+      "detailsUrl": "/view/2140014",
       "description": "",
       "query": "arch"
-    },
-    {
-      "name": "Super Smash Bros. Ultimate v13.0.2 Complete + Yuzu EA 4176 [SSBU PC Windows] - SEPH1",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "18.0 GiB",
-      "sizeBytes": 19327352832,
-      "seeders": 14,
-      "leechers": 3,
-      "completed": 4828,
-      "date": "2024-04-26 21:44",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1810283",
-      "description": "",
-      "query": "windows"
     },
     {
       "name": "Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 COMPLETE + Yuzu EA 4176 [MK8D PC Windows] - SEPH1",
@@ -422,14 +405,31 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 13,
-      "leechers": 4,
+      "seeders": 16,
+      "leechers": 3,
       "completed": 7317,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1810276",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Super Smash Bros. Ultimate v13.0.2 Complete + Yuzu EA 4176 [SSBU PC Windows] - SEPH1",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "18.0 GiB",
+      "sizeBytes": 19327352832,
+      "seeders": 11,
+      "leechers": 3,
+      "completed": 4828,
+      "date": "2024-04-26 21:44",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1810283",
       "description": "",
       "query": "windows"
     },
@@ -473,8 +473,8 @@
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
-      "seeders": 3,
-      "leechers": 2,
+      "seeders": 4,
+      "leechers": 1,
       "completed": 1229,
       "date": "2023-06-05 00:12",
       "category": "Anime",
@@ -490,7 +490,7 @@
       "torrentFile": "",
       "size": "7.2 GiB",
       "sizeBytes": 7730941133,
-      "seeders": 3,
+      "seeders": 4,
       "leechers": 0,
       "completed": 490,
       "date": "2020-07-12 23:36",
@@ -525,7 +525,7 @@
       "size": "6.9 GiB",
       "sizeBytes": 7408818586,
       "seeders": 2,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 3152,
       "date": "2016-09-08 05:46",
       "category": "Anime",
