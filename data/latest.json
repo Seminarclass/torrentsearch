@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:57:46.846Z",
+  "generatedAt": "2026-09-13T23:53:28.179Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 631
+      "totalMs": 371
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 769
+      "totalMs": 606
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 414
+      "totalMs": 487
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 465
+      "totalMs": 304
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8134
+      "totalMs": 8238
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 667
+      "totalMs": 636
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2174
+      "totalMs": 2028
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 491
+      "totalMs": 506
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 533
+      "totalMs": 529
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 4365
+      "totalMs": 2529
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2264
+      "totalMs": 2158
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 7,
+      "seeders": 6,
       "leechers": 0,
       "completed": 265,
       "date": "2022-02-03 14:26",
@@ -126,6 +126,23 @@
       "detailsUrl": "/view/1486155#comments",
       "description": "",
       "query": "debian"
+    },
+    {
+      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "143.4 MiB",
+      "sizeBytes": 150365798,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 57,
+      "date": "2018-03-07 22:27",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
     },
     {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
@@ -162,30 +179,13 @@
       "query": "linux"
     },
     {
-      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "143.4 MiB",
-      "sizeBytes": 150365798,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 57,
-      "date": "2018-03-07 22:27",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1013299#comments",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
       "magnet": "",
       "torrentFile": "",
       "size": "67.1 MiB",
       "sizeBytes": 70359450,
       "seeders": 0,
-      "leechers": 2,
+      "leechers": 1,
       "completed": 267,
       "date": "2014-12-25 18:57",
       "category": "Anime",
@@ -236,7 +236,7 @@
       "size": "777.4 MiB",
       "sizeBytes": 815162982,
       "seeders": 0,
-      "leechers": 0,
+      "leechers": 1,
       "completed": 100,
       "date": "2020-11-12 05:15",
       "category": "Anime",
@@ -269,8 +269,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 354,
-      "leechers": 3,
+      "seeders": 353,
+      "leechers": 1,
       "completed": 2320,
       "date": "2026-09-05 09:05",
       "category": "Anime",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 186,
+      "seeders": 185,
       "leechers": 0,
       "completed": 2355,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 143,
+      "seeders": 142,
       "leechers": 0,
       "completed": 2230,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 110,
+      "seeders": 112,
       "leechers": 0,
       "completed": 2026,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 103,
+      "seeders": 104,
       "leechers": 0,
       "completed": 2228,
       "date": "2026-06-13 09:02",
@@ -354,7 +354,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 98,
+      "seeders": 99,
       "leechers": 0,
       "completed": 2169,
       "date": "2026-06-27 09:05",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 79,
+      "seeders": 78,
       "leechers": 0,
-      "completed": 2196,
+      "completed": 2197,
       "date": "2026-05-30 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -388,8 +388,8 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 74,
-      "leechers": 0,
+      "seeders": 75,
+      "leechers": 1,
       "completed": 1020,
       "date": "2026-08-30 03:09",
       "category": "Anime",
@@ -405,7 +405,7 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 15,
+      "seeders": 14,
       "leechers": 2,
       "completed": 7323,
       "date": "2024-04-26 20:13",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 7,
+      "seeders": 6,
       "leechers": 0,
       "completed": 340,
       "date": "2025-09-18 17:31",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 4,
+      "seeders": 5,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -490,7 +490,7 @@
       "torrentFile": "",
       "size": "7.2 GiB",
       "sizeBytes": 7730941133,
-      "seeders": 4,
+      "seeders": 3,
       "leechers": 0,
       "completed": 490,
       "date": "2020-07-12 23:36",
