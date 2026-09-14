@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T15:28:38.596Z",
+  "generatedAt": "2026-09-14T20:04:27.564Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1063
+      "totalMs": 1410
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 818
+      "totalMs": 1545
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 648
+      "totalMs": 672
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 665
+      "totalMs": 568
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8436
+      "totalMs": 7680
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 390
+      "totalMs": 524
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1931
+      "totalMs": 1500
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 902
+      "totalMs": 650
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 931
+      "totalMs": 742
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2674
+      "totalMs": 2067
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 3548
+      "totalMs": 3499
     }
   ],
   "results": [
@@ -100,7 +100,7 @@
       "size": "624.0 MiB",
       "sizeBytes": 654311424,
       "seeders": 0,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 0,
       "date": "2009-11-03 07:03",
       "category": "Anime",
@@ -128,12 +128,29 @@
       "query": "debian"
     },
     {
+      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "143.4 MiB",
+      "sizeBytes": 150365798,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 57,
+      "date": "2018-03-07 22:27",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
       "magnet": "",
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 2,
+      "seeders": 1,
       "leechers": 0,
       "completed": 26,
       "date": "2015-03-06 16:33",
@@ -158,23 +175,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662993",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "143.4 MiB",
-      "sizeBytes": 150365798,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 57,
-      "date": "2018-03-07 22:27",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1013299#comments",
       "description": "",
       "query": "linux"
     },
@@ -236,7 +236,7 @@
       "size": "777.4 MiB",
       "sizeBytes": 815162982,
       "seeders": 0,
-      "leechers": 0,
+      "leechers": 1,
       "completed": 100,
       "date": "2020-11-12 05:15",
       "category": "Anime",
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 348,
-      "leechers": 2,
-      "completed": 2322,
+      "seeders": 347,
+      "leechers": 1,
+      "completed": 2326,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 182,
+      "seeders": 183,
       "leechers": 0,
       "completed": 2355,
       "date": "2026-08-08 09:02",
@@ -303,8 +303,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 138,
-      "leechers": 1,
+      "seeders": 137,
+      "leechers": 0,
       "completed": 2230,
       "date": "2026-07-25 09:02",
       "category": "Anime",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 108,
+      "seeders": 113,
       "leechers": 0,
       "completed": 2026,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 104,
+      "seeders": 103,
       "leechers": 0,
       "completed": 2229,
       "date": "2026-06-13 09:02",
@@ -354,7 +354,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 98,
+      "seeders": 100,
       "leechers": 0,
       "completed": 2170,
       "date": "2026-06-27 09:05",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 79,
+      "seeders": 78,
       "leechers": 0,
       "completed": 2198,
       "date": "2026-05-30 09:02",
@@ -388,9 +388,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 72,
+      "seeders": 68,
       "leechers": 0,
-      "completed": 1026,
+      "completed": 1028,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 16,
-      "leechers": 5,
+      "seeders": 17,
+      "leechers": 3,
       "completed": 7326,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 10,
-      "leechers": 3,
-      "completed": 4833,
+      "seeders": 15,
+      "leechers": 4,
+      "completed": 4834,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 6,
+      "seeders": 4,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -464,23 +464,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1954600#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 4,
-      "leechers": 0,
-      "completed": 203,
-      "date": "2026-02-25 13:25",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2079853",
       "description": "",
       "query": "windows"
     },
@@ -502,13 +485,30 @@
       "query": "windows"
     },
     {
+      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "116.4 MiB",
+      "sizeBytes": 122054246,
+      "seeders": 4,
+      "leechers": 0,
+      "completed": 112,
+      "date": "2026-07-24 07:40",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2136680",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
-      "seeders": 3,
-      "leechers": 1,
+      "seeders": 2,
+      "leechers": 0,
       "completed": 1229,
       "date": "2023-06-05 00:12",
       "category": "Anime",
@@ -519,19 +519,19 @@
       "query": "windows"
     },
     {
-      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
       "magnet": "",
       "torrentFile": "",
-      "size": "116.4 MiB",
-      "sizeBytes": 122054246,
-      "seeders": 3,
-      "leechers": 2,
-      "completed": 112,
-      "date": "2026-07-24 07:40",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 92,
+      "date": "2025-08-05 18:19",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2136680",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
