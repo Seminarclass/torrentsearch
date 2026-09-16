@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:52:06.194Z",
+  "generatedAt": "2026-09-16T20:40:28.581Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 377
+      "totalMs": 1344
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 570
+      "totalMs": 1102
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 593
+      "totalMs": 852
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 403
+      "totalMs": 589
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7813
+      "totalMs": 7776
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 549
+      "totalMs": 807
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 4579
+      "totalMs": 1677
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 577
+      "totalMs": 882
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 741
+      "totalMs": 996
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2745
+      "totalMs": 2418
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2682
+      "totalMs": 4315
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 0,
       "completed": 265,
       "date": "2022-02-03 14:26",
@@ -126,6 +126,23 @@
       "detailsUrl": "/view/1486155#comments",
       "description": "",
       "query": "debian"
+    },
+    {
+      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "143.4 MiB",
+      "sizeBytes": 150365798,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 57,
+      "date": "2018-03-07 22:27",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
     },
     {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
@@ -158,23 +175,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662993",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "143.4 MiB",
-      "sizeBytes": 150365798,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 57,
-      "date": "2018-03-07 22:27",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1013299#comments",
       "description": "",
       "query": "linux"
     },
@@ -219,7 +219,7 @@
       "size": "2.9 GiB",
       "sizeBytes": 3113851290,
       "seeders": 0,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 0,
       "date": "2010-12-21 21:28",
       "category": "Anime",
@@ -269,8 +269,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 324,
-      "leechers": 2,
+      "seeders": 328,
+      "leechers": 4,
       "completed": 2340,
       "date": "2026-09-05 09:05",
       "category": "Anime",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 178,
+      "seeders": 175,
       "leechers": 1,
       "completed": 2361,
       "date": "2026-08-08 09:02",
@@ -320,9 +320,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 111,
+      "seeders": 112,
       "leechers": 1,
-      "completed": 2029,
+      "completed": 2030,
       "date": "2026-07-18 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -354,7 +354,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 100,
+      "seeders": 102,
       "leechers": 0,
       "completed": 2172,
       "date": "2026-06-27 09:05",
@@ -388,7 +388,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 67,
+      "seeders": 68,
       "leechers": 0,
       "completed": 1046,
       "date": "2026-08-30 03:09",
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 17,
-      "leechers": 3,
+      "seeders": 20,
+      "leechers": 2,
       "completed": 7328,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 11,
-      "leechers": 6,
-      "completed": 4837,
+      "seeders": 13,
+      "leechers": 3,
+      "completed": 4840,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 4,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -473,48 +473,14 @@
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
-      "seeders": 4,
-      "leechers": 1,
+      "seeders": 3,
+      "leechers": 2,
       "completed": 1229,
       "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1679300#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 3,
-      "leechers": 0,
-      "completed": 203,
-      "date": "2026-02-25 13:25",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2079853",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "7.2 GiB",
-      "sizeBytes": 7730941133,
-      "seeders": 3,
-      "leechers": 0,
-      "completed": 490,
-      "date": "2020-07-12 23:36",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1262215",
       "description": "",
       "query": "windows"
     },
@@ -532,6 +498,40 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2136680",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "2 [FOG] Fuuraiki 3/風雨来記3 JP Windows PC",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "7.4 GiB",
+      "sizeBytes": 7945689498,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 500,
+      "date": "2023-07-12 09:20",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1691976#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 92,
+      "date": "2025-08-05 18:19",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
