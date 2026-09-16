@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T13:54:32.913Z",
+  "generatedAt": "2026-09-16T17:52:06.194Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1000
+      "totalMs": 377
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 754
+      "totalMs": 570
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 824
+      "totalMs": 593
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 683
+      "totalMs": 403
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8432
+      "totalMs": 7813
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 493
+      "totalMs": 549
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2285
+      "totalMs": 4579
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 927
+      "totalMs": 577
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1114
+      "totalMs": 741
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2637
+      "totalMs": 2745
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 3335
+      "totalMs": 2682
     }
   ],
   "results": [
@@ -116,8 +116,8 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 7,
-      "leechers": 1,
+      "seeders": 6,
+      "leechers": 0,
       "completed": 265,
       "date": "2022-02-03 14:26",
       "category": "Anime",
@@ -126,23 +126,6 @@
       "detailsUrl": "/view/1486155#comments",
       "description": "",
       "query": "debian"
-    },
-    {
-      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "143.4 MiB",
-      "sizeBytes": 150365798,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 57,
-      "date": "2018-03-07 22:27",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1013299#comments",
-      "description": "",
-      "query": "linux"
     },
     {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
@@ -175,6 +158,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662993",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "143.4 MiB",
+      "sizeBytes": 150365798,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 57,
+      "date": "2018-03-07 22:27",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1013299#comments",
       "description": "",
       "query": "linux"
     },
@@ -236,7 +236,7 @@
       "size": "777.4 MiB",
       "sizeBytes": 815162982,
       "seeders": 0,
-      "leechers": 0,
+      "leechers": 1,
       "completed": 100,
       "date": "2020-11-12 05:15",
       "category": "Anime",
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 331,
-      "leechers": 4,
-      "completed": 2338,
+      "seeders": 324,
+      "leechers": 2,
+      "completed": 2340,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,9 +286,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 185,
+      "seeders": 178,
       "leechers": 1,
-      "completed": 2360,
+      "completed": 2361,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -303,9 +303,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 140,
+      "seeders": 139,
       "leechers": 1,
-      "completed": 2233,
+      "completed": 2234,
       "date": "2026-07-25 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -320,8 +320,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 110,
-      "leechers": 0,
+      "seeders": 111,
+      "leechers": 1,
       "completed": 2029,
       "date": "2026-07-18 09:02",
       "category": "Anime",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 102,
+      "seeders": 103,
       "leechers": 0,
       "completed": 2231,
       "date": "2026-06-13 09:02",
@@ -390,7 +390,7 @@
       "sizeBytes": 1503238554,
       "seeders": 67,
       "leechers": 0,
-      "completed": 1045,
+      "completed": 1046,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 19,
-      "leechers": 4,
+      "seeders": 17,
+      "leechers": 3,
       "completed": 7328,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,8 +422,8 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 9,
-      "leechers": 3,
+      "seeders": 11,
+      "leechers": 6,
       "completed": 4837,
       "date": "2024-04-26 21:44",
       "category": "Anime",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 7,
+      "seeders": 8,
       "leechers": 0,
       "completed": 340,
       "date": "2025-09-18 17:31",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 4,
+      "seeders": 5,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -474,30 +474,13 @@
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 4,
-      "leechers": 0,
+      "leechers": 1,
       "completed": 1229,
       "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1679300#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "7.2 GiB",
-      "sizeBytes": 7730941133,
-      "seeders": 4,
-      "leechers": 0,
-      "completed": 490,
-      "date": "2020-07-12 23:36",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1262215",
       "description": "",
       "query": "windows"
     },
@@ -515,6 +498,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2079853",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "7.2 GiB",
+      "sizeBytes": 7730941133,
+      "seeders": 3,
+      "leechers": 0,
+      "completed": 490,
+      "date": "2020-07-12 23:36",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1262215",
       "description": "",
       "query": "windows"
     },
