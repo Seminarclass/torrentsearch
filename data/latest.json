@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:56:53.861Z",
+  "generatedAt": "2026-09-17T20:54:23.018Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1320
+      "totalMs": 1050
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1497
+      "totalMs": 776
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 673
+      "totalMs": 252
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 759
+      "totalMs": 234
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8212
+      "totalMs": 8657
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 679
+      "totalMs": 405
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1592
+      "totalMs": 2881
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 764
+      "totalMs": 571
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 928
+      "totalMs": 723
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": true,
-      "totalMs": 2171
+      "ok": false,
+      "totalMs": 74326
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2724
+      "totalMs": 1946
     }
   ],
   "results": [
@@ -128,23 +128,6 @@
       "query": "debian"
     },
     {
-      "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "99.4 MiB",
-      "sizeBytes": 104228454,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 26,
-      "date": "2015-03-06 16:33",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/662994",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
       "magnet": "",
       "torrentFile": "",
@@ -158,6 +141,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "99.4 MiB",
+      "sizeBytes": 104228454,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 26,
+      "date": "2015-03-06 16:33",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/662994",
       "description": "",
       "query": "linux"
     },
@@ -236,7 +236,7 @@
       "size": "777.4 MiB",
       "sizeBytes": 815162982,
       "seeders": 0,
-      "leechers": 0,
+      "leechers": 1,
       "completed": 100,
       "date": "2020-11-12 05:15",
       "category": "Anime",
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 314,
-      "leechers": 2,
-      "completed": 2340,
+      "seeders": 317,
+      "leechers": 1,
+      "completed": 2341,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,9 +286,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 174,
-      "leechers": 1,
-      "completed": 2361,
+      "seeders": 182,
+      "leechers": 0,
+      "completed": 2362,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -303,9 +303,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 132,
-      "leechers": 1,
-      "completed": 2234,
+      "seeders": 133,
+      "leechers": 0,
+      "completed": 2235,
       "date": "2026-07-25 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -320,9 +320,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 112,
-      "leechers": 1,
-      "completed": 2031,
+      "seeders": 109,
+      "leechers": 0,
+      "completed": 2032,
       "date": "2026-07-18 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -332,31 +332,14 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1010.1 MiB",
-      "sizeBytes": 1059166618,
-      "seeders": 101,
-      "leechers": 0,
-      "completed": 2173,
-      "date": "2026-06-27 09:05",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2125781",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 96,
+      "seeders": 98,
       "leechers": 0,
-      "completed": 2231,
+      "completed": 2232,
       "date": "2026-06-13 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -366,14 +349,31 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 98,
+      "leechers": 1,
+      "completed": 2174,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E08 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 79,
+      "seeders": 75,
       "leechers": 0,
-      "completed": 2200,
+      "completed": 2201,
       "date": "2026-05-30 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -390,7 +390,7 @@
       "sizeBytes": 1503238554,
       "seeders": 63,
       "leechers": 0,
-      "completed": 1046,
+      "completed": 1048,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 23,
+      "seeders": 20,
       "leechers": 3,
-      "completed": 7333,
+      "completed": 7334,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -485,30 +485,13 @@
       "query": "windows"
     },
     {
-      "name": "2 [FOG] Fuuraiki 3/風雨来記3 JP Windows PC",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "7.4 GiB",
-      "sizeBytes": 7945689498,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 501,
-      "date": "2023-07-12 09:20",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1691976#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 2,
-      "leechers": 1,
+      "leechers": 2,
       "completed": 1230,
       "date": "2023-06-05 00:12",
       "category": "Anime",
@@ -532,6 +515,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2002557",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "23.6 MiB",
+      "sizeBytes": 24746394,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 419,
+      "date": "2020-02-01 11:49",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1217160",
       "description": "",
       "query": "windows"
     }
