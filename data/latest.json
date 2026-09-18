@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:17:04.031Z",
+  "generatedAt": "2026-09-18T02:20:25.378Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 2397
+      "totalMs": 1030
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1717
+      "totalMs": 1000
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 540
+      "totalMs": 479
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 430
+      "totalMs": 312
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7755
+      "totalMs": 7923
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 731
+      "totalMs": 701
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2267
+      "totalMs": 1494
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 1046
+      "totalMs": 510
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1049
+      "totalMs": 558
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": false,
-      "totalMs": 80001
+      "ok": true,
+      "totalMs": 2361
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2879
+      "totalMs": 2612
     }
   ],
   "results": [
@@ -100,7 +100,7 @@
       "size": "624.0 MiB",
       "sizeBytes": 654311424,
       "seeders": 0,
-      "leechers": 2,
+      "leechers": 1,
       "completed": 0,
       "date": "2009-11-03 07:03",
       "category": "Anime",
@@ -269,8 +269,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 321,
-      "leechers": 1,
+      "seeders": 313,
+      "leechers": 3,
       "completed": 2342,
       "date": "2026-09-05 09:05",
       "category": "Anime",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 180,
+      "seeders": 178,
       "leechers": 0,
       "completed": 2362,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 138,
+      "seeders": 136,
       "leechers": 0,
       "completed": 2235,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 112,
+      "seeders": 111,
       "leechers": 0,
       "completed": 2032,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 100,
+      "seeders": 105,
       "leechers": 0,
       "completed": 2232,
       "date": "2026-06-13 09:02",
@@ -354,7 +354,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 99,
+      "seeders": 100,
       "leechers": 0,
       "completed": 2174,
       "date": "2026-06-27 09:05",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 77,
+      "seeders": 79,
       "leechers": 0,
       "completed": 2201,
       "date": "2026-05-30 09:02",
@@ -388,7 +388,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 66,
+      "seeders": 65,
       "leechers": 0,
       "completed": 1049,
       "date": "2026-08-30 03:09",
@@ -405,7 +405,7 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 18,
+      "seeders": 21,
       "leechers": 3,
       "completed": 7334,
       "date": "2024-04-26 20:13",
@@ -423,7 +423,7 @@
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
       "seeders": 9,
-      "leechers": 6,
+      "leechers": 4,
       "completed": 4841,
       "date": "2024-04-26 21:44",
       "category": "Anime",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 6,
       "leechers": 0,
       "completed": 130,
       "date": "2025-04-01 09:54",
@@ -502,36 +502,36 @@
       "query": "windows"
     },
     {
-      "name": "2 [FOG] Fuuraiki 3/風雨来記3 JP Windows PC",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "7.4 GiB",
-      "sizeBytes": 7945689498,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 501,
-      "date": "2023-07-12 09:20",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1691976#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 2,
-      "leechers": 2,
+      "leechers": 1,
       "completed": 1230,
       "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1679300#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 92,
+      "date": "2025-08-05 18:19",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
