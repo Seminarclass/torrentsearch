@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:01:09.881Z",
+  "generatedAt": "2026-09-20T22:48:19.475Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1333
+      "totalMs": 917
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 22680
+      "totalMs": 798
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2984
+      "totalMs": 2994
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 655
+      "totalMs": 562
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7075
+      "totalMs": 7884
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 871
+      "totalMs": 679
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2095
+      "totalMs": 1840
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 910
+      "totalMs": 741
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 986
+      "totalMs": 843
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 4461
+      "totalMs": 3752
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 3679
+      "totalMs": 4140
     }
   ],
   "results": [
@@ -269,8 +269,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 293,
-      "leechers": 2,
+      "seeders": 299,
+      "leechers": 4,
       "completed": 2351,
       "date": "2026-09-05 09:05",
       "category": "Anime",
@@ -286,8 +286,8 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 166,
-      "leechers": 0,
+      "seeders": 168,
+      "leechers": 1,
       "completed": 2366,
       "date": "2026-08-08 09:02",
       "category": "Anime",
@@ -303,8 +303,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 134,
-      "leechers": 0,
+      "seeders": 138,
+      "leechers": 1,
       "completed": 2239,
       "date": "2026-07-25 09:02",
       "category": "Anime",
@@ -320,8 +320,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 109,
-      "leechers": 0,
+      "seeders": 110,
+      "leechers": 1,
       "completed": 2034,
       "date": "2026-07-18 09:02",
       "category": "Anime",
@@ -332,30 +332,13 @@
       "query": "arch"
     },
     {
-      "name": "[Yameii] Ascendance of a Bookworm - S04E20 [English Dub] [CR WEB-DL 1080p H264 AAC] [A0BCFA2F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.4 GiB",
-      "sizeBytes": 1503238554,
-      "seeders": 100,
-      "leechers": 7,
-      "completed": 623,
-      "date": "2026-09-19 09:34",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2163369",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 99,
-      "leechers": 0,
+      "seeders": 103,
+      "leechers": 1,
       "completed": 2236,
       "date": "2026-06-13 09:02",
       "category": "Anime",
@@ -371,8 +354,8 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 95,
-      "leechers": 0,
+      "seeders": 101,
+      "leechers": 1,
       "completed": 2176,
       "date": "2026-06-27 09:05",
       "category": "Anime",
@@ -383,19 +366,36 @@
       "query": "arch"
     },
     {
-      "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "name": "[Yameii] Ascendance of a Bookworm - S04E20 [English Dub] [CR WEB-DL 1080p H264 AAC] [A0BCFA2F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.4 GiB",
+      "sizeBytes": 1503238554,
+      "seeders": 93,
+      "leechers": 5,
+      "completed": 633,
+      "date": "2026-09-19 09:34",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2163369",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "[Yameii] Ascendance of a Bookworm - S04E18 v2 [English Dub] [CR WEB-DL 1080p H264 AAC] [4C163B0F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
       "seeders": 61,
       "leechers": 0,
-      "completed": 843,
-      "date": "2026-07-25 09:32",
+      "completed": 1074,
+      "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2137027",
+      "detailsUrl": "/view/2153600",
       "description": "",
       "query": "arch"
     },
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 23,
-      "leechers": 6,
-      "completed": 7343,
+      "seeders": 24,
+      "leechers": 5,
+      "completed": 7344,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -423,8 +423,8 @@
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
       "seeders": 14,
-      "leechers": 5,
-      "completed": 4850,
+      "leechers": 6,
+      "completed": 4851,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -519,19 +519,19 @@
       "query": "windows"
     },
     {
-      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
-      "size": "412.8 MiB",
-      "sizeBytes": 432852173,
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
       "seeders": 2,
-      "leechers": 0,
-      "completed": 92,
-      "date": "2025-08-05 18:19",
+      "leechers": 1,
+      "completed": 1230,
+      "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2002557",
+      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     }
