@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:17:14.826Z",
+  "generatedAt": "2026-09-22T19:24:48.743Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1055
+      "totalMs": 1772
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1060
+      "totalMs": 1745
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2483
+      "totalMs": 2362
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 1374
+      "totalMs": 560
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7901
+      "totalMs": 7749
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 515
+      "totalMs": 534
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1584
+      "totalMs": 1523
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 1036
+      "totalMs": 747
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1094
+      "totalMs": 771
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2323
+      "totalMs": 2238
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 4307
+      "totalMs": 4079
     }
   ],
   "results": [
@@ -117,7 +117,7 @@
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
       "seeders": 7,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 265,
       "date": "2022-02-03 14:26",
       "category": "Anime",
@@ -133,7 +133,7 @@
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 2,
+      "seeders": 1,
       "leechers": 0,
       "completed": 26,
       "date": "2015-03-06 16:33",
@@ -141,23 +141,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662994",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "143.4 MiB",
-      "sizeBytes": 150365798,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 57,
-      "date": "2018-03-07 22:27",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1013299#comments",
       "description": "",
       "query": "linux"
     },
@@ -175,6 +158,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662993",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "143.4 MiB",
+      "sizeBytes": 150365798,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 57,
+      "date": "2018-03-07 22:27",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1013299#comments",
       "description": "",
       "query": "linux"
     },
@@ -269,8 +269,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 286,
-      "leechers": 2,
+      "seeders": 283,
+      "leechers": 3,
       "completed": 2353,
       "date": "2026-09-05 09:05",
       "category": "Anime",
@@ -286,8 +286,8 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 164,
-      "leechers": 0,
+      "seeders": 166,
+      "leechers": 1,
       "completed": 2368,
       "date": "2026-08-08 09:02",
       "category": "Anime",
@@ -303,8 +303,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 122,
-      "leechers": 0,
+      "seeders": 127,
+      "leechers": 1,
       "completed": 2241,
       "date": "2026-07-25 09:02",
       "category": "Anime",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.1 GiB",
-      "sizeBytes": 1181116006,
-      "seeders": 101,
-      "leechers": 0,
-      "completed": 2237,
-      "date": "2026-06-13 09:02",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2121086",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 100,
+      "seeders": 101,
       "leechers": 1,
       "completed": 2037,
       "date": "2026-07-18 09:02",
@@ -349,12 +332,29 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.1 GiB",
+      "sizeBytes": 1181116006,
+      "seeders": 98,
+      "leechers": 0,
+      "completed": 2237,
+      "date": "2026-06-13 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2121086",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 96,
+      "seeders": 94,
       "leechers": 0,
       "completed": 2176,
       "date": "2026-06-27 09:05",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 86,
-      "leechers": 3,
-      "completed": 706,
+      "seeders": 85,
+      "leechers": 1,
+      "completed": 711,
       "date": "2026-09-19 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -388,7 +388,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 58,
+      "seeders": 59,
       "leechers": 0,
       "completed": 1091,
       "date": "2026-08-30 03:09",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 19,
+      "seeders": 20,
       "leechers": 5,
-      "completed": 7359,
+      "completed": 7360,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 13,
-      "leechers": 4,
-      "completed": 4858,
+      "seeders": 11,
+      "leechers": 6,
+      "completed": 4859,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 7,
+      "seeders": 9,
       "leechers": 0,
       "completed": 340,
       "date": "2025-09-18 17:31",
@@ -451,14 +451,31 @@
       "query": "windows"
     },
     {
+      "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "302.0 MiB",
+      "sizeBytes": 316669952,
+      "seeders": 5,
+      "leechers": 0,
+      "completed": 130,
+      "date": "2025-04-01 09:54",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1954600#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
       "magnet": "",
       "torrentFile": "",
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
       "seeders": 5,
-      "leechers": 6,
-      "completed": 29,
+      "leechers": 4,
+      "completed": 33,
       "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
@@ -468,19 +485,19 @@
       "query": "windows"
     },
     {
-      "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
-      "size": "302.0 MiB",
-      "sizeBytes": 316669952,
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
       "seeders": 4,
-      "leechers": 0,
-      "completed": 130,
-      "date": "2025-04-01 09:54",
+      "leechers": 1,
+      "completed": 1230,
+      "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1954600#comments",
+      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
@@ -507,7 +524,7 @@
       "torrentFile": "",
       "size": "6.9 GiB",
       "sizeBytes": 7408818586,
-      "seeders": 3,
+      "seeders": 2,
       "leechers": 1,
       "completed": 3155,
       "date": "2016-09-08 05:46",
@@ -515,23 +532,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/848204",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
-      "seeders": 2,
-      "leechers": 1,
-      "completed": 1230,
-      "date": "2023-06-05 00:12",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     }
