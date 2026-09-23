@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:33:33.285Z",
+  "generatedAt": "2026-09-23T01:04:58.031Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 669
+      "totalMs": 655
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 544
+      "totalMs": 495
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2893
+      "totalMs": 3937
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 675
+      "totalMs": 654
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7914
+      "totalMs": 7939
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 601
+      "totalMs": 527
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2593
+      "totalMs": 2113
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 820
+      "totalMs": 756
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 976
+      "totalMs": 796
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2870
+      "totalMs": 2563
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 4210
+      "totalMs": 3092
     }
   ],
   "results": [
@@ -128,6 +128,23 @@
       "query": "debian"
     },
     {
+      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "143.4 MiB",
+      "sizeBytes": 150365798,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 57,
+      "date": "2018-03-07 22:27",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
       "magnet": "",
       "torrentFile": "",
@@ -158,23 +175,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662993",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "143.4 MiB",
-      "sizeBytes": 150365798,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 57,
-      "date": "2018-03-07 22:27",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1013299#comments",
       "description": "",
       "query": "linux"
     },
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 281,
+      "seeders": 280,
       "leechers": 4,
-      "completed": 2353,
+      "completed": 2354,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 163,
+      "seeders": 169,
       "leechers": 1,
       "completed": 2369,
       "date": "2026-08-08 09:02",
@@ -303,8 +303,8 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 128,
-      "leechers": 0,
+      "seeders": 129,
+      "leechers": 1,
       "completed": 2241,
       "date": "2026-07-25 09:02",
       "category": "Anime",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1010.1 MiB",
-      "sizeBytes": 1059166618,
-      "seeders": 99,
-      "leechers": 0,
-      "completed": 2176,
-      "date": "2026-06-27 09:05",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2125781",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 99,
+      "seeders": 103,
       "leechers": 1,
       "completed": 2037,
       "date": "2026-07-18 09:02",
@@ -354,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 95,
+      "seeders": 101,
       "leechers": 0,
       "completed": 2237,
       "date": "2026-06-13 09:02",
@@ -366,14 +349,31 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 97,
+      "leechers": 0,
+      "completed": 2176,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[Yameii] Ascendance of a Bookworm - S04E20 [English Dub] [CR WEB-DL 1080p H264 AAC] [A0BCFA2F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 79,
-      "leechers": 3,
-      "completed": 711,
+      "seeders": 81,
+      "leechers": 2,
+      "completed": 713,
       "date": "2026-09-19 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -388,8 +388,8 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 62,
-      "leechers": 0,
+      "seeders": 61,
+      "leechers": 1,
       "completed": 1091,
       "date": "2026-08-30 03:09",
       "category": "Anime",
@@ -405,7 +405,7 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 20,
+      "seeders": 19,
       "leechers": 5,
       "completed": 7360,
       "date": "2024-04-26 20:13",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 9,
-      "leechers": 5,
-      "completed": 4859,
+      "seeders": 12,
+      "leechers": 4,
+      "completed": 4860,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 7,
+      "seeders": 6,
       "leechers": 0,
       "completed": 340,
       "date": "2025-09-18 17:31",
@@ -474,8 +474,8 @@
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
       "seeders": 4,
-      "leechers": 8,
-      "completed": 33,
+      "leechers": 7,
+      "completed": 34,
       "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
@@ -491,7 +491,7 @@
       "size": "116.4 MiB",
       "sizeBytes": 122054246,
       "seeders": 4,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 112,
       "date": "2026-07-24 07:40",
       "category": "Anime",
@@ -502,36 +502,36 @@
       "query": "windows"
     },
     {
-      "name": "│2D.G.F.│ ＊自炊品 [160826] [5pb.／ホビボックス] STEINS；GATE 0 -シュタインズ・ゲート・ゼロ- for Windows PC DL版 + 同梱特典 RemixMedley",
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
-      "size": "6.9 GiB",
-      "sizeBytes": 7408818586,
-      "seeders": 2,
-      "leechers": 1,
-      "completed": 3155,
-      "date": "2016-09-08 05:46",
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
+      "seeders": 3,
+      "leechers": 0,
+      "completed": 1230,
+      "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/848204",
+      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
     {
-      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
       "magnet": "",
       "torrentFile": "",
-      "size": "412.8 MiB",
-      "sizeBytes": 432852173,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 92,
-      "date": "2025-08-05 18:19",
+      "size": "23.6 MiB",
+      "sizeBytes": 24746394,
+      "seeders": 3,
+      "leechers": 2,
+      "completed": 419,
+      "date": "2020-02-01 11:49",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2002557",
+      "detailsUrl": "/view/1217160",
       "description": "",
       "query": "windows"
     }
