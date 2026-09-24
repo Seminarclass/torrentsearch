@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:37:55.998Z",
+  "generatedAt": "2026-09-24T22:50:59.555Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 623
+      "totalMs": 1333
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1063
+      "totalMs": 875
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 3412
+      "totalMs": 2928
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 956
+      "totalMs": 585
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7434
+      "totalMs": 8622
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 810
+      "totalMs": 595
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 5811
+      "totalMs": 3130
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 999
+      "totalMs": 680
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1191
+      "totalMs": 752
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 5642
+      "totalMs": 3714
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 4125
+      "totalMs": 3497
     }
   ],
   "results": [
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 278,
+      "seeders": 248,
       "leechers": 3,
       "completed": 2356,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 164,
+      "seeders": 157,
       "leechers": 1,
       "completed": 2370,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 124,
+      "seeders": 119,
       "leechers": 1,
       "completed": 2243,
       "date": "2026-07-25 09:02",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1010.1 MiB",
-      "sizeBytes": 1059166618,
-      "seeders": 103,
-      "leechers": 1,
-      "completed": 2178,
-      "date": "2026-06-27 09:05",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2125781",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 99,
+      "seeders": 97,
       "leechers": 1,
       "completed": 2040,
       "date": "2026-07-18 09:02",
@@ -354,7 +337,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 98,
+      "seeders": 95,
       "leechers": 0,
       "completed": 2239,
       "date": "2026-06-13 09:02",
@@ -366,13 +349,30 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 95,
+      "leechers": 1,
+      "completed": 2178,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[Yameii] Ascendance of a Bookworm - S04E20 [English Dub] [CR WEB-DL 1080p H264 AAC] [A0BCFA2F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 73,
-      "leechers": 1,
+      "seeders": 70,
+      "leechers": 2,
       "completed": 745,
       "date": "2026-09-19 09:34",
       "category": "Anime",
@@ -388,7 +388,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 65,
+      "seeders": 64,
       "leechers": 1,
       "completed": 1103,
       "date": "2026-08-30 03:09",
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 18,
-      "leechers": 3,
+      "seeders": 14,
+      "leechers": 5,
       "completed": 7367,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -424,7 +424,7 @@
       "sizeBytes": 19327352832,
       "seeders": 10,
       "leechers": 4,
-      "completed": 4862,
+      "completed": 4863,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 0,
       "completed": 340,
       "date": "2025-09-18 17:31",
@@ -457,8 +457,8 @@
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
       "seeders": 5,
-      "leechers": 1,
-      "completed": 130,
+      "leechers": 0,
+      "completed": 131,
       "date": "2025-04-01 09:54",
       "category": "Anime",
       "provider": "Nyaa",
@@ -468,19 +468,19 @@
       "query": "windows"
     },
     {
-      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
-      "size": "7.2 GiB",
-      "sizeBytes": 7730941133,
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
       "seeders": 3,
       "leechers": 0,
-      "completed": 490,
-      "date": "2020-07-12 23:36",
+      "completed": 1230,
+      "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1262215",
+      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
@@ -525,7 +525,7 @@
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
       "seeders": 2,
-      "leechers": 2,
+      "leechers": 4,
       "completed": 47,
       "date": "2026-09-21 20:14",
       "category": "Anime",
