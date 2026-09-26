@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T20:24:33.396Z",
+  "generatedAt": "2026-09-26T23:15:30.251Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 971
+      "totalMs": 1317
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1109
+      "totalMs": 1178
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2157
+      "totalMs": 2836
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 286
+      "totalMs": 350
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7662
+      "totalMs": 7964
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 673
+      "totalMs": 761
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
-      "ok": true,
-      "totalMs": 2736
+      "ok": false,
+      "totalMs": 12014
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 390
+      "totalMs": 479
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 443
+      "totalMs": 606
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 2049
+      "totalMs": 1938
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 1998
+      "totalMs": 2241
     }
   ],
   "results": [
@@ -100,7 +100,7 @@
       "size": "624.0 MiB",
       "sizeBytes": 654311424,
       "seeders": 0,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 0,
       "date": "2009-11-03 07:03",
       "category": "Anime",
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 258,
+      "seeders": 264,
       "leechers": 3,
-      "completed": 2362,
+      "completed": 2363,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 161,
+      "seeders": 159,
       "leechers": 1,
       "completed": 2374,
       "date": "2026-08-08 09:02",
@@ -303,9 +303,9 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 125,
+      "seeders": 121,
       "leechers": 5,
-      "completed": 472,
+      "completed": 505,
       "date": "2026-09-26 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 118,
+      "seeders": 119,
       "leechers": 1,
       "completed": 2246,
       "date": "2026-07-25 09:02",
@@ -338,30 +338,13 @@
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
       "seeders": 99,
-      "leechers": 1,
+      "leechers": 2,
       "completed": 2045,
       "date": "2026-07-18 09:02",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2134091",
-      "description": "",
-      "query": "arch"
-    },
-    {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1010.1 MiB",
-      "sizeBytes": 1059166618,
-      "seeders": 98,
-      "leechers": 1,
-      "completed": 2180,
-      "date": "2026-06-27 09:05",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2125781",
       "description": "",
       "query": "arch"
     },
@@ -383,14 +366,31 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 95,
+      "leechers": 1,
+      "completed": 2180,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[Yameii] Ascendance of a Bookworm - S04E21 [English Dub] [CR WEB-DL 720p H264 AAC] [09A7451F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "706.5 MiB",
       "sizeBytes": 740818944,
-      "seeders": 67,
-      "leechers": 6,
-      "completed": 276,
+      "seeders": 63,
+      "leechers": 4,
+      "completed": 313,
       "date": "2026-09-26 09:33",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 20,
-      "leechers": 5,
+      "seeders": 19,
+      "leechers": 4,
       "completed": 7375,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,8 +422,8 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 11,
-      "leechers": 2,
+      "seeders": 10,
+      "leechers": 3,
       "completed": 4871,
       "date": "2024-04-26 21:44",
       "category": "Anime",
@@ -457,7 +457,7 @@
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 5,
-      "leechers": 1,
+      "leechers": 2,
       "completed": 1232,
       "date": "2023-06-05 00:12",
       "category": "Anime",
@@ -481,23 +481,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1954600#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 205,
-      "date": "2026-02-25 13:25",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2079853",
       "description": "",
       "query": "windows"
     },
@@ -532,6 +515,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/848204",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 92,
+      "date": "2025-08-05 18:19",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
