@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:26:26.054Z",
+  "generatedAt": "2026-09-30T19:44:46.223Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1026
+      "totalMs": 611
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1320
+      "totalMs": 633
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2783
+      "totalMs": 2552
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 463
+      "totalMs": 379
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 7908
+      "totalMs": 8566
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 680
+      "totalMs": 552
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1452
+      "totalMs": 2052
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 560
+      "totalMs": 610
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1615
+      "totalMs": 752
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 4709
+      "totalMs": 4817
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2744
+      "totalMs": 2317
     }
   ],
   "results": [
@@ -162,6 +162,23 @@
       "query": "linux"
     },
     {
+      "name": "[CG] Mawaru Penguindrum Linux Desktop [B791DF7F].mkv",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "151.3 MiB",
+      "sizeBytes": 158649549,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 38,
+      "date": "2015-03-06 16:33",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/662993",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
       "magnet": "",
       "torrentFile": "",
@@ -192,23 +209,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/117344",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "[CG] Mawaru Penguindrum Linux Desktop [B791DF7F].mkv",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "151.3 MiB",
-      "sizeBytes": 158649549,
-      "seeders": 0,
-      "leechers": 0,
-      "completed": 38,
-      "date": "2015-03-06 16:33",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/662993",
       "description": "",
       "query": "linux"
     },
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 246,
+      "seeders": 240,
       "leechers": 3,
       "completed": 2369,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 156,
+      "seeders": 158,
       "leechers": 2,
       "completed": 2380,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 115,
+      "seeders": 116,
       "leechers": 2,
       "completed": 2252,
       "date": "2026-07-25 09:02",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.1 GiB",
-      "sizeBytes": 1181116006,
-      "seeders": 98,
-      "leechers": 2,
-      "completed": 2048,
-      "date": "2026-07-18 09:02",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2134091",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 96,
+      "seeders": 95,
       "leechers": 0,
       "completed": 2247,
       "date": "2026-06-13 09:02",
@@ -349,12 +332,29 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.1 GiB",
+      "sizeBytes": 1181116006,
+      "seeders": 94,
+      "leechers": 2,
+      "completed": 2048,
+      "date": "2026-07-18 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2134091",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 92,
+      "seeders": 93,
       "leechers": 1,
       "completed": 2185,
       "date": "2026-06-27 09:05",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 71,
-      "leechers": 0,
-      "completed": 708,
+      "seeders": 79,
+      "leechers": 1,
+      "completed": 712,
       "date": "2026-09-26 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -383,19 +383,19 @@
       "query": "arch"
     },
     {
-      "name": "[Yameii] Ascendance of a Bookworm - S04E18 v2 [English Dub] [CR WEB-DL 1080p H264 AAC] [4C163B0F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
+      "name": "[Yameii] Ascendance of a Bookworm - S04E20 [English Dub] [CR WEB-DL 1080p H264 AAC] [A0BCFA2F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 55,
-      "leechers": 1,
-      "completed": 1149,
-      "date": "2026-08-30 03:09",
+      "seeders": 56,
+      "leechers": 0,
+      "completed": 800,
+      "date": "2026-09-19 09:34",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2153600",
+      "detailsUrl": "/view/2163369",
       "description": "",
       "query": "arch"
     },
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 16,
-      "leechers": 5,
+      "seeders": 18,
+      "leechers": 3,
       "completed": 7391,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,31 +422,14 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 10,
-      "leechers": 1,
+      "seeders": 15,
+      "leechers": 3,
       "completed": 4882,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1810283",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
-      "seeders": 6,
-      "leechers": 1,
-      "completed": 1232,
-      "date": "2023-06-05 00:12",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
@@ -490,14 +473,31 @@
       "torrentFile": "",
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
-      "seeders": 3,
-      "leechers": 6,
-      "completed": 63,
+      "seeders": 4,
+      "leechers": 3,
+      "completed": 65,
       "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2164743#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
+      "seeders": 4,
+      "leechers": 1,
+      "completed": 1232,
+      "date": "2023-06-05 00:12",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1679300#comments",
       "description": "",
       "query": "windows"
     },
