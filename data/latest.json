@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:00:16.865Z",
+  "generatedAt": "2026-10-05T20:08:19.472Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1636
+      "totalMs": 1192
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1012
+      "totalMs": 1141
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2379
+      "totalMs": 2504
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 331
+      "totalMs": 915
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 189,
       "ok": true,
-      "totalMs": 8167
+      "totalMs": 8097
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 498
+      "totalMs": 491
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1369
+      "totalMs": 1610
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 420
+      "totalMs": 1005
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 443
+      "totalMs": 992
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 4128
+      "totalMs": 5377
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2282
+      "totalMs": 4736
     }
   ],
   "results": [
@@ -116,8 +116,8 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 5,
-      "leechers": 1,
+      "seeders": 6,
+      "leechers": 0,
       "completed": 265,
       "date": "2022-02-03 14:26",
       "category": "Anime",
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 236,
+      "seeders": 228,
       "leechers": 3,
       "completed": 2376,
       "date": "2026-09-05 09:05",
@@ -286,9 +286,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 150,
+      "seeders": 144,
       "leechers": 2,
-      "completed": 2386,
+      "completed": 2387,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -303,9 +303,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 115,
+      "seeders": 112,
       "leechers": 2,
-      "completed": 2259,
+      "completed": 2262,
       "date": "2026-07-25 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -320,9 +320,9 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 95,
-      "leechers": 0,
-      "completed": 733,
+      "seeders": 97,
+      "leechers": 2,
+      "completed": 749,
       "date": "2026-10-03 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -337,9 +337,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 90,
+      "seeders": 94,
       "leechers": 1,
-      "completed": 2253,
+      "completed": 2254,
       "date": "2026-06-13 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -354,9 +354,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 89,
+      "seeders": 86,
       "leechers": 2,
-      "completed": 2051,
+      "completed": 2052,
       "date": "2026-07-18 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 83,
+      "seeders": 78,
       "leechers": 1,
-      "completed": 2191,
+      "completed": 2192,
       "date": "2026-06-27 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -390,7 +390,7 @@
       "sizeBytes": 1395864371,
       "seeders": 57,
       "leechers": 0,
-      "completed": 785,
+      "completed": 789,
       "date": "2026-09-26 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 16,
+      "seeders": 26,
       "leechers": 4,
-      "completed": 7408,
+      "completed": 7410,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -423,8 +423,8 @@
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
       "seeders": 10,
-      "leechers": 2,
-      "completed": 4891,
+      "leechers": 3,
+      "completed": 4893,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -439,9 +439,9 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 5,
-      "leechers": 1,
-      "completed": 341,
+      "seeders": 7,
+      "leechers": 0,
+      "completed": 342,
       "date": "2025-09-18 17:31",
       "category": "Anime",
       "provider": "Nyaa",
@@ -451,29 +451,12 @@
       "query": "windows"
     },
     {
-      "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "302.0 MiB",
-      "sizeBytes": 316669952,
-      "seeders": 4,
-      "leechers": 0,
-      "completed": 131,
-      "date": "2025-04-01 09:54",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1954600#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
-      "seeders": 4,
+      "seeders": 7,
       "leechers": 1,
       "completed": 1233,
       "date": "2023-06-05 00:12",
@@ -485,19 +468,19 @@
       "query": "windows"
     },
     {
-      "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
+      "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
       "magnet": "",
       "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 3,
+      "size": "302.0 MiB",
+      "sizeBytes": 316669952,
+      "seeders": 6,
       "leechers": 0,
-      "completed": 208,
-      "date": "2026-02-25 13:25",
+      "completed": 131,
+      "date": "2025-04-01 09:54",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2079853",
+      "detailsUrl": "/view/1954600#comments",
       "description": "",
       "query": "windows"
     },
@@ -525,13 +508,30 @@
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
       "seeders": 2,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 83,
       "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2164743#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 92,
+      "date": "2025-08-05 18:19",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
