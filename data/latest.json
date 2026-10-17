@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:09:15.737Z",
+  "generatedAt": "2026-10-17T02:15:46.404Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 520
+      "totalMs": 996
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 741
+      "totalMs": 903
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 3230
+      "totalMs": 7298
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 461
+      "totalMs": 538
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 8143
+      "totalMs": 7626
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 530
+      "totalMs": 651
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2095
+      "totalMs": 2122
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 648
+      "totalMs": 1193
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1619
+      "totalMs": 1417
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 3844
+      "totalMs": 4507
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2435
+      "totalMs": 5928
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 0,
       "completed": 266,
       "date": "2022-02-03 14:26",
@@ -133,9 +133,9 @@
       "torrentFile": "",
       "size": "413.3 MiB",
       "sizeBytes": 433376461,
-      "seeders": 9,
-      "leechers": 2,
-      "completed": 92,
+      "seeders": 5,
+      "leechers": 7,
+      "completed": 95,
       "date": "2026-10-15 14:00",
       "category": "Anime",
       "provider": "Nyaa",
@@ -179,6 +179,23 @@
       "query": "linux"
     },
     {
+      "name": "[CG] Mawaru Penguindrum Linux Desktop [B791DF7F].mkv",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "151.3 MiB",
+      "sizeBytes": 158649549,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 38,
+      "date": "2015-03-06 16:33",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/662993",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "1 [Yarashii] Doki Doki Literature Club! Patch FR pour MAC et LINUX (Patch uniquement)",
       "magnet": "",
       "torrentFile": "",
@@ -209,23 +226,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/117344",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "[CG] Mawaru Penguindrum Linux Desktop [B791DF7F].mkv",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "151.3 MiB",
-      "sizeBytes": 158649549,
-      "seeders": 0,
-      "leechers": 0,
-      "completed": 38,
-      "date": "2015-03-06 16:33",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/662993",
       "description": "",
       "query": "linux"
     },
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 193,
+      "seeders": 201,
       "leechers": 2,
       "completed": 2387,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 142,
+      "seeders": 138,
       "leechers": 1,
       "completed": 2401,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 105,
+      "seeders": 106,
       "leechers": 1,
       "completed": 2271,
       "date": "2026-07-25 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 83,
+      "seeders": 84,
       "leechers": 0,
       "completed": 2202,
       "date": "2026-06-27 09:05",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 54,
-      "leechers": 1,
-      "completed": 786,
+      "seeders": 55,
+      "leechers": 3,
+      "completed": 787,
       "date": "2026-10-10 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -388,9 +388,9 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 51,
-      "leechers": 0,
-      "completed": 897,
+      "seeders": 49,
+      "leechers": 1,
+      "completed": 899,
       "date": "2026-10-03 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 20,
-      "leechers": 5,
-      "completed": 7464,
+      "seeders": 23,
+      "leechers": 3,
+      "completed": 7465,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,7 +422,7 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 12,
+      "seeders": 14,
       "leechers": 2,
       "completed": 4921,
       "date": "2024-04-26 21:44",
@@ -430,6 +430,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1810283",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "874.5 MiB",
+      "sizeBytes": 916979712,
+      "seeders": 7,
+      "leechers": 2,
+      "completed": 100,
+      "date": "2026-09-21 20:14",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2164743#comments",
       "description": "",
       "query": "windows"
     },
@@ -468,29 +485,12 @@
       "query": "windows"
     },
     {
-      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "874.5 MiB",
-      "sizeBytes": 916979712,
-      "seeders": 3,
-      "leechers": 2,
-      "completed": 97,
-      "date": "2026-09-21 20:14",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2164743#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
       "magnet": "",
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 3,
+      "seeders": 5,
       "leechers": 0,
       "completed": 211,
       "date": "2026-02-25 13:25",
