@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:53:38.823Z",
+  "generatedAt": "2026-10-17T23:39:17.369Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 618
+      "totalMs": 906
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1519
+      "totalMs": 1240
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 3071
+      "totalMs": 2768
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 306
+      "totalMs": 594
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 8480
+      "totalMs": 7745
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 379
+      "totalMs": 450
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1819
+      "totalMs": 1706
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 352
+      "totalMs": 887
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 341
+      "totalMs": 919
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 3549
+      "totalMs": 4194
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 1783
+      "totalMs": 3910
     }
   ],
   "results": [
@@ -133,14 +133,31 @@
       "torrentFile": "",
       "size": "413.3 MiB",
       "sizeBytes": 433376461,
-      "seeders": 5,
-      "leechers": 1,
+      "seeders": 4,
+      "leechers": 5,
       "completed": 105,
       "date": "2026-10-15 14:00",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2174277#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "67.1 MiB",
+      "sizeBytes": 70359450,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 269,
+      "date": "2014-12-25 18:57",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/638686",
       "description": "",
       "query": "linux"
     },
@@ -158,23 +175,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662994",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "67.1 MiB",
-      "sizeBytes": 70359450,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 269,
-      "date": "2014-12-25 18:57",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/638686",
       "description": "",
       "query": "linux"
     },
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 177,
+      "seeders": 176,
       "leechers": 2,
       "completed": 2388,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 136,
+      "seeders": 135,
       "leechers": 1,
       "completed": 2403,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 104,
+      "seeders": 102,
       "leechers": 1,
       "completed": 2271,
       "date": "2026-07-25 09:02",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[Yameii] Ascendance of a Bookworm - S04E24 [English Dub] [CR WEB-DL 720p H264 AAC] [2BE69A35] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "697.9 MiB",
-      "sizeBytes": 731801190,
-      "seeders": 91,
-      "leechers": 6,
-      "completed": 353,
-      "date": "2026-10-17 09:40",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2175020",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 89,
+      "seeders": 85,
       "leechers": 0,
       "completed": 2264,
       "date": "2026-06-13 09:02",
@@ -354,7 +337,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 82,
+      "seeders": 80,
       "leechers": 0,
       "completed": 2202,
       "date": "2026-06-27 09:05",
@@ -366,29 +349,12 @@
       "query": "arch"
     },
     {
-      "name": "[Yameii] Ascendance of a Bookworm - S04E24 [English Dub] [CR WEB-DL 1080p H264 AAC] [24B3B0D1] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 78,
-      "leechers": 6,
-      "completed": 371,
-      "date": "2026-10-17 12:15",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2175070",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 73,
+      "seeders": 76,
       "leechers": 1,
       "completed": 2061,
       "date": "2026-07-18 09:02",
@@ -400,13 +366,47 @@
       "query": "arch"
     },
     {
+      "name": "[Yameii] Ascendance of a Bookworm - S04E24 [English Dub] [CR WEB-DL 720p H264 AAC] [2BE69A35] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "697.9 MiB",
+      "sizeBytes": 731801190,
+      "seeders": 76,
+      "leechers": 7,
+      "completed": 369,
+      "date": "2026-10-17 09:40",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2175020",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "[Yameii] Ascendance of a Bookworm - S04E24 [English Dub] [CR WEB-DL 1080p H264 AAC] [24B3B0D1] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.3 GiB",
+      "sizeBytes": 1395864371,
+      "seeders": 72,
+      "leechers": 6,
+      "completed": 396,
+      "date": "2026-10-17 12:15",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2175070",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 COMPLETE + Yuzu EA 4176 [MK8D PC Windows] - SEPH1",
       "magnet": "",
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 21,
-      "leechers": 3,
+      "seeders": 19,
+      "leechers": 2,
       "completed": 7473,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 13,
-      "leechers": 4,
-      "completed": 4926,
+      "seeders": 15,
+      "leechers": 3,
+      "completed": 4927,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -508,7 +508,7 @@
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 2,
-      "leechers": 1,
+      "leechers": 2,
       "completed": 1235,
       "date": "2023-06-05 00:12",
       "category": "Anime",
