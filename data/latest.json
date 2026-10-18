@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:18:32.492Z",
+  "generatedAt": "2026-10-18T16:15:01.299Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1136
+      "totalMs": 1095
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 990
+      "totalMs": 378
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2713
+      "totalMs": 3712
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 277
+      "totalMs": 266
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 8010
+      "totalMs": 8241
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 240
+      "totalMs": 346
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
-      "ok": true,
-      "totalMs": 1352
+      "ok": false,
+      "totalMs": 11815
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 372
+      "totalMs": 492
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 401
+      "totalMs": 445
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 5238
+      "totalMs": 4899
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 1535
+      "totalMs": 2086
     }
   ],
   "results": [
@@ -128,23 +128,6 @@
       "query": "debian"
     },
     {
-      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "413.3 MiB",
-      "sizeBytes": 433376461,
-      "seeders": 7,
-      "leechers": 4,
-      "completed": 112,
-      "date": "2026-10-15 14:00",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2174277#comments",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
       "magnet": "",
       "torrentFile": "",
@@ -158,6 +141,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662994",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "413.3 MiB",
+      "sizeBytes": 433376461,
+      "seeders": 2,
+      "leechers": 6,
+      "completed": 113,
+      "date": "2026-10-15 14:00",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2174277#comments",
       "description": "",
       "query": "linux"
     },
@@ -269,9 +269,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 180,
+      "seeders": 173,
       "leechers": 2,
-      "completed": 2389,
+      "completed": 2390,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -286,9 +286,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 136,
+      "seeders": 138,
       "leechers": 1,
-      "completed": 2403,
+      "completed": 2404,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -305,7 +305,7 @@
       "sizeBytes": 1181116006,
       "seeders": 104,
       "leechers": 1,
-      "completed": 2271,
+      "completed": 2272,
       "date": "2026-07-25 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -320,9 +320,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 83,
+      "seeders": 81,
       "leechers": 0,
-      "completed": 2264,
+      "completed": 2265,
       "date": "2026-06-13 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -337,9 +337,9 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 81,
+      "seeders": 79,
       "leechers": 0,
-      "completed": 2202,
+      "completed": 2203,
       "date": "2026-06-27 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -354,9 +354,9 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 79,
+      "seeders": 77,
       "leechers": 1,
-      "completed": 2061,
+      "completed": 2062,
       "date": "2026-07-18 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 72,
-      "leechers": 7,
-      "completed": 480,
+      "seeders": 76,
+      "leechers": 3,
+      "completed": 497,
       "date": "2026-10-17 12:15",
       "category": "Anime",
       "provider": "Nyaa",
@@ -388,9 +388,9 @@
       "torrentFile": "",
       "size": "697.9 MiB",
       "sizeBytes": 731801190,
-      "seeders": 70,
-      "leechers": 3,
-      "completed": 430,
+      "seeders": 66,
+      "leechers": 5,
+      "completed": 444,
       "date": "2026-10-17 09:40",
       "category": "Anime",
       "provider": "Nyaa",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 21,
-      "leechers": 2,
-      "completed": 7473,
+      "seeders": 25,
+      "leechers": 3,
+      "completed": 7475,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,7 +422,7 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 11,
+      "seeders": 12,
       "leechers": 2,
       "completed": 4930,
       "date": "2024-04-26 21:44",
@@ -434,12 +434,29 @@
       "query": "windows"
     },
     {
+      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "434.3 MiB",
+      "sizeBytes": 455396557,
+      "seeders": 6,
+      "leechers": 0,
+      "completed": 342,
+      "date": "2025-09-18 17:31",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2021233#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
       "magnet": "",
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 4,
       "leechers": 0,
       "completed": 131,
       "date": "2025-04-01 09:54",
@@ -456,7 +473,7 @@
       "torrentFile": "",
       "size": "1.3 GiB",
       "sizeBytes": 1395864371,
-      "seeders": 5,
+      "seeders": 4,
       "leechers": 0,
       "completed": 212,
       "date": "2026-02-25 13:25",
@@ -473,7 +490,7 @@
       "torrentFile": "",
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
-      "seeders": 4,
+      "seeders": 2,
       "leechers": 2,
       "completed": 101,
       "date": "2026-09-21 20:14",
@@ -485,36 +502,19 @@
       "query": "windows"
     },
     {
-      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
+      "name": "2 [FOG] Fuuraiki 3/風雨来記3 JP Windows PC",
       "magnet": "",
       "torrentFile": "",
-      "size": "434.3 MiB",
-      "sizeBytes": 455396557,
-      "seeders": 4,
+      "size": "7.4 GiB",
+      "sizeBytes": 7945689498,
+      "seeders": 2,
       "leechers": 0,
-      "completed": 342,
-      "date": "2025-09-18 17:31",
+      "completed": 502,
+      "date": "2023-07-12 09:20",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2021233#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 1236,
-      "date": "2023-06-05 00:12",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
+      "detailsUrl": "/view/1691976#comments",
       "description": "",
       "query": "windows"
     }
