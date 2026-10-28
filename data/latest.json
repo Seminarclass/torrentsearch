@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:11:09.371Z",
+  "generatedAt": "2026-10-28T16:54:15.151Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -11,7 +11,7 @@
     "windows"
   ],
   "category": "all",
-  "totalResults": 26,
+  "totalResults": 25,
   "totalProviders": 11,
   "providers": [
     {
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1968
+      "totalMs": 1289
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1578
+      "totalMs": 844
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 3250
+      "totalMs": 2573
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 298
+      "totalMs": 626
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 6767
+      "totalMs": 8006
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 465
+      "totalMs": 171
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
-      "ok": false,
-      "totalMs": 20954
+      "ok": true,
+      "totalMs": 1665
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 3887
+      "totalMs": 901
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
-      "ok": false,
-      "totalMs": 16072
+      "ok": true,
+      "totalMs": 884
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 3531
+      "totalMs": 5922
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
-      "ok": false,
-      "totalMs": 30341
+      "ok": true,
+      "totalMs": 3493
     }
   ],
   "results": [
@@ -117,7 +117,7 @@
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
       "seeders": 7,
-      "leechers": 1,
+      "leechers": 0,
       "completed": 266,
       "date": "2022-02-03 14:26",
       "category": "Anime",
@@ -133,7 +133,7 @@
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 3,
+      "seeders": 2,
       "leechers": 0,
       "completed": 27,
       "date": "2015-03-06 16:33",
@@ -152,7 +152,7 @@
       "sizeBytes": 433376461,
       "seeders": 2,
       "leechers": 3,
-      "completed": 151,
+      "completed": 152,
       "date": "2026-10-15 14:00",
       "category": "Anime",
       "provider": "Nyaa",
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 151,
+      "seeders": 143,
       "leechers": 2,
       "completed": 2402,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 122,
+      "seeders": 120,
       "leechers": 1,
       "completed": 2409,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 91,
+      "seeders": 85,
       "leechers": 1,
       "completed": 2277,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 76,
+      "seeders": 74,
       "leechers": 0,
       "completed": 2273,
       "date": "2026-06-13 09:02",
@@ -332,29 +332,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1010.1 MiB",
-      "sizeBytes": 1059166618,
-      "seeders": 66,
-      "leechers": 0,
-      "completed": 2206,
-      "date": "2026-06-27 09:05",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2125781",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 66,
+      "seeders": 69,
       "leechers": 1,
       "completed": 2066,
       "date": "2026-07-18 09:02",
@@ -366,6 +349,23 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1010.1 MiB",
+      "sizeBytes": 1059166618,
+      "seeders": 65,
+      "leechers": 0,
+      "completed": 2206,
+      "date": "2026-06-27 09:05",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125781",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[Yameii] Ascendance of a Bookworm - S04E18 v2 [English Dub] [CR WEB-DL 1080p H264 AAC] [4C163B0F] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
@@ -373,7 +373,7 @@
       "sizeBytes": 1503238554,
       "seeders": 52,
       "leechers": 1,
-      "completed": 1378,
+      "completed": 1380,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -383,19 +383,19 @@
       "query": "arch"
     },
     {
-      "name": "[Yameii] Ascendance of a Bookworm - S04E23 [English Dub] [CR WEB-DL 1080p H264 AAC] [174CC56C] (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo | Adopted Daughter of an Archduke)",
+      "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 40,
+      "size": "1.4 GiB",
+      "sizeBytes": 1503238554,
+      "seeders": 46,
       "leechers": 0,
-      "completed": 905,
-      "date": "2026-10-10 09:34",
+      "completed": 937,
+      "date": "2026-07-25 09:32",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2171897",
+      "detailsUrl": "/view/2137027",
       "description": "",
       "query": "arch"
     },
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 22,
-      "leechers": 3,
-      "completed": 7534,
+      "seeders": 20,
+      "leechers": 4,
+      "completed": 7536,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 13,
+      "seeders": 16,
       "leechers": 0,
-      "completed": 4977,
+      "completed": 4978,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -439,7 +439,7 @@
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 4,
+      "seeders": 6,
       "leechers": 0,
       "completed": 343,
       "date": "2025-09-18 17:31",
@@ -451,29 +451,12 @@
       "query": "windows"
     },
     {
-      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "874.5 MiB",
-      "sizeBytes": 916979712,
-      "seeders": 3,
-      "leechers": 0,
-      "completed": 117,
-      "date": "2026-09-21 20:14",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2164743#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
       "magnet": "",
       "torrentFile": "",
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
-      "seeders": 3,
+      "seeders": 6,
       "leechers": 0,
       "completed": 1243,
       "date": "2023-06-05 00:12",
@@ -485,36 +468,19 @@
       "query": "windows"
     },
     {
-      "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
+      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
       "magnet": "",
       "torrentFile": "",
-      "size": "1.3 GiB",
-      "sizeBytes": 1395864371,
-      "seeders": 3,
+      "size": "874.5 MiB",
+      "sizeBytes": 916979712,
+      "seeders": 4,
       "leechers": 0,
-      "completed": 213,
-      "date": "2026-02-25 13:25",
+      "completed": 117,
+      "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2079853",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "116.4 MiB",
-      "sizeBytes": 122054246,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 113,
-      "date": "2026-07-24 07:40",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2136680",
+      "detailsUrl": "/view/2164743#comments",
       "description": "",
       "query": "windows"
     },
@@ -532,6 +498,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1954600#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 93,
+      "date": "2025-08-05 18:19",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
