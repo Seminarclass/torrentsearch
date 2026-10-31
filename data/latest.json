@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:16:44.857Z",
+  "generatedAt": "2026-10-31T07:46:39.017Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 990
+      "totalMs": 671
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1703
+      "totalMs": 790
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2882
+      "totalMs": 3280
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 817
+      "totalMs": 255
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 8276
+      "totalMs": 8359
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 453
+      "totalMs": 521
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2098
+      "totalMs": 2324
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 951
+      "totalMs": 471
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1002
+      "totalMs": 432
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": true,
-      "totalMs": 3750
+      "ok": false,
+      "totalMs": 24484
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 4286
+      "totalMs": 3242
     }
   ],
   "results": [
@@ -133,7 +133,7 @@
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 2,
+      "seeders": 3,
       "leechers": 0,
       "completed": 27,
       "date": "2015-03-06 16:33",
@@ -196,23 +196,6 @@
       "query": "linux"
     },
     {
-      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "413.3 MiB",
-      "sizeBytes": 433376461,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 158,
-      "date": "2026-10-15 14:00",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2174277#comments",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "[4LS]ks_a1_[linux-x86][FFD2F7FD].tar.bz2",
       "magnet": "",
       "torrentFile": "",
@@ -264,12 +247,29 @@
       "query": "linux"
     },
     {
+      "name": "[Linux] The 25th Ward: The Silver Case | シルバー事件２５区",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "2.1 GiB",
+      "sizeBytes": 2254857830,
+      "seeders": 0,
+      "leechers": 0,
+      "completed": 39,
+      "date": "2020-11-12 05:22",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1301346",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E20 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 162,
+      "seeders": 155,
       "leechers": 2,
       "completed": 2403,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 124,
+      "seeders": 120,
       "leechers": 1,
       "completed": 2410,
       "date": "2026-08-08 09:02",
@@ -315,29 +315,12 @@
       "query": "arch"
     },
     {
-      "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.1 GiB",
-      "sizeBytes": 1181116006,
-      "seeders": 74,
-      "leechers": 1,
-      "completed": 2067,
-      "date": "2026-07-18 09:02",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2134091",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E10 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 71,
+      "seeders": 73,
       "leechers": 0,
       "completed": 2275,
       "date": "2026-06-13 09:02",
@@ -349,12 +332,29 @@
       "query": "arch"
     },
     {
+      "name": "[ToonsHub] Honzuki no Gekokujou S04E14 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.1 GiB",
+      "sizeBytes": 1181116006,
+      "seeders": 69,
+      "leechers": 1,
+      "completed": 2067,
+      "date": "2026-07-18 09:02",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2134091",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E12 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 67,
+      "seeders": 65,
       "leechers": 0,
       "completed": 2208,
       "date": "2026-06-27 09:05",
@@ -371,9 +371,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 50,
+      "seeders": 49,
       "leechers": 1,
-      "completed": 1388,
+      "completed": 1390,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -390,7 +390,7 @@
       "sizeBytes": 1395864371,
       "seeders": 40,
       "leechers": 0,
-      "completed": 914,
+      "completed": 915,
       "date": "2026-10-10 09:34",
       "category": "Anime",
       "provider": "Nyaa",
@@ -400,31 +400,14 @@
       "query": "arch"
     },
     {
-      "name": "Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 COMPLETE + Yuzu EA 4176 [MK8D PC Windows] - SEPH1",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "11.8 GiB",
-      "sizeBytes": 12670153523,
-      "seeders": 18,
-      "leechers": 2,
-      "completed": 7552,
-      "date": "2024-04-26 20:13",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1810276",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "Super Smash Bros. Ultimate v13.0.2 Complete + Yuzu EA 4176 [SSBU PC Windows] - SEPH1",
       "magnet": "",
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 18,
-      "leechers": 1,
-      "completed": 4986,
+      "seeders": 14,
+      "leechers": 0,
+      "completed": 4987,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -434,12 +417,46 @@
       "query": "windows"
     },
     {
+      "name": "Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 COMPLETE + Yuzu EA 4176 [MK8D PC Windows] - SEPH1",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "11.8 GiB",
+      "sizeBytes": 12670153523,
+      "seeders": 11,
+      "leechers": 2,
+      "completed": 7553,
+      "date": "2024-04-26 20:13",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1810276",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "874.5 MiB",
+      "sizeBytes": 916979712,
+      "seeders": 4,
+      "leechers": 0,
+      "completed": 120,
+      "date": "2026-09-21 20:14",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2164743#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
       "magnet": "",
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 7,
+      "seeders": 4,
       "leechers": 0,
       "completed": 346,
       "date": "2025-09-18 17:31",
@@ -456,7 +473,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 4,
+      "seeders": 3,
       "leechers": 0,
       "completed": 132,
       "date": "2025-04-01 09:54",
@@ -468,53 +485,19 @@
       "query": "windows"
     },
     {
-      "name": "│2D.G.F.│ ＊自炊品 [160826] [5pb.／ホビボックス] STEINS；GATE 0 -シュタインズ・ゲート・ゼロ- for Windows PC DL版 + 同梱特典 RemixMedley",
+      "name": "Atelier Ryza DX - PATCH FR (PC Windows) version 2.01",
       "magnet": "",
       "torrentFile": "",
-      "size": "6.9 GiB",
-      "sizeBytes": 7408818586,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 3158,
-      "date": "2016-09-08 05:46",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/848204",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "874.5 MiB",
-      "sizeBytes": 916979712,
+      "size": "1.3 GiB",
+      "sizeBytes": 1395864371,
       "seeders": 3,
       "leechers": 0,
-      "completed": 120,
-      "date": "2026-09-21 20:14",
+      "completed": 213,
+      "date": "2026-02-25 13:25",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2164743#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "13.2 GiB",
-      "sizeBytes": 14173392077,
-      "seeders": 3,
-      "leechers": 1,
-      "completed": 1244,
-      "date": "2023-06-05 00:12",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1679300#comments",
+      "detailsUrl": "/view/2079853",
       "description": "",
       "query": "windows"
     },
@@ -532,6 +515,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2136680",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "│2D.G.F.│ ＊自炊品 [160826] [5pb.／ホビボックス] STEINS；GATE 0 -シュタインズ・ゲート・ゼロ- for Windows PC DL版 + 同梱特典 RemixMedley",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "6.9 GiB",
+      "sizeBytes": 7408818586,
+      "seeders": 2,
+      "leechers": 1,
+      "completed": 3158,
+      "date": "2016-09-08 05:46",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/848204",
       "description": "",
       "query": "windows"
     }
