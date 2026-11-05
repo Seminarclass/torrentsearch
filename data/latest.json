@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:11:08.982Z",
+  "generatedAt": "2026-11-05T08:45:48.213Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -11,7 +11,7 @@
     "windows"
   ],
   "category": "all",
-  "totalResults": 25,
+  "totalResults": 26,
   "totalProviders": 11,
   "providers": [
     {
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1241
+      "totalMs": 4723
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 1071
+      "totalMs": 996
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 3664
+      "totalMs": 3088
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 678
+      "totalMs": 996
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 8207
+      "totalMs": 7962
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 541
+      "totalMs": 346
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2527
+      "totalMs": 2113
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 1039
+      "totalMs": 1205
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1071
+      "totalMs": 1235
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": false,
-      "totalMs": 22112
+      "totalMs": 12190
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 3628
+      "totalMs": 4256
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 0,
       "completed": 266,
       "date": "2022-02-03 14:26",
@@ -126,6 +126,23 @@
       "detailsUrl": "/view/1486155#comments",
       "description": "",
       "query": "debian"
+    },
+    {
+      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "67.1 MiB",
+      "sizeBytes": 70359450,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 269,
+      "date": "2014-12-25 18:57",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/638686",
+      "description": "",
+      "query": "linux"
     },
     {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
@@ -141,40 +158,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662994",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "413.3 MiB",
-      "sizeBytes": 433376461,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 163,
-      "date": "2026-10-15 14:00",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2174277#comments",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "67.1 MiB",
-      "sizeBytes": 70359450,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 269,
-      "date": "2014-12-25 18:57",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/638686",
       "description": "",
       "query": "linux"
     },
@@ -209,6 +192,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1013299#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "413.3 MiB",
+      "sizeBytes": 433376461,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 163,
+      "date": "2026-10-15 14:00",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2174277#comments",
       "description": "",
       "query": "linux"
     },
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 146,
+      "seeders": 147,
       "leechers": 2,
       "completed": 2406,
       "date": "2026-09-05 09:05",
@@ -286,9 +286,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 118,
-      "leechers": 2,
-      "completed": 2414,
+      "seeders": 119,
+      "leechers": 1,
+      "completed": 2415,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 83,
+      "seeders": 84,
       "leechers": 1,
       "completed": 2279,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 64,
+      "seeders": 67,
       "leechers": 1,
       "completed": 2071,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 62,
+      "seeders": 60,
       "leechers": 0,
       "completed": 2210,
       "date": "2026-06-27 09:05",
@@ -354,9 +354,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 44,
-      "leechers": 1,
-      "completed": 1408,
+      "seeders": 47,
+      "leechers": 2,
+      "completed": 1410,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -371,7 +371,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 35,
+      "seeders": 40,
       "leechers": 0,
       "completed": 931,
       "date": "2026-07-18 09:31",
@@ -388,7 +388,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 35,
+      "seeders": 37,
       "leechers": 0,
       "completed": 943,
       "date": "2026-07-25 09:32",
@@ -405,8 +405,8 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 19,
-      "leechers": 2,
+      "seeders": 18,
+      "leechers": 1,
       "completed": 7591,
       "date": "2024-04-26 20:13",
       "category": "Anime",
@@ -422,7 +422,7 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 9,
+      "seeders": 8,
       "leechers": 3,
       "completed": 4992,
       "date": "2024-04-26 21:44",
@@ -430,23 +430,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1810283",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "434.3 MiB",
-      "sizeBytes": 455396557,
-      "seeders": 7,
-      "leechers": 0,
-      "completed": 347,
-      "date": "2025-09-18 17:31",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2021233#comments",
       "description": "",
       "query": "windows"
     },
@@ -468,14 +451,31 @@
       "query": "windows"
     },
     {
+      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "434.3 MiB",
+      "sizeBytes": 455396557,
+      "seeders": 5,
+      "leechers": 0,
+      "completed": 347,
+      "date": "2025-09-18 17:31",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2021233#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
       "magnet": "",
       "torrentFile": "",
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
-      "seeders": 5,
-      "leechers": 1,
-      "completed": 127,
+      "seeders": 4,
+      "leechers": 0,
+      "completed": 128,
       "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
@@ -485,36 +485,53 @@
       "query": "windows"
     },
     {
-      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "7.2 GiB",
-      "sizeBytes": 7730941133,
-      "seeders": 3,
-      "leechers": 0,
-      "completed": 494,
-      "date": "2020-07-12 23:36",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1262215",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "│2D.G.F.│ ＊自炊品 [160826] [5pb.／ホビボックス] STEINS；GATE 0 -シュタインズ・ゲート・ゼロ- for Windows PC DL版 + 同梱特典 RemixMedley",
       "magnet": "",
       "torrentFile": "",
       "size": "6.9 GiB",
       "sizeBytes": 7408818586,
-      "seeders": 2,
-      "leechers": 1,
-      "completed": 3158,
+      "seeders": 3,
+      "leechers": 0,
+      "completed": 3161,
       "date": "2016-09-08 05:46",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/848204",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "9 Disgaea PC Games Bundle [Windows][Cracked]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "13.2 GiB",
+      "sizeBytes": 14173392077,
+      "seeders": 2,
+      "leechers": 1,
+      "completed": 1246,
+      "date": "2023-06-05 00:12",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1679300#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "412.8 MiB",
+      "sizeBytes": 432852173,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 93,
+      "date": "2025-08-05 18:19",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
