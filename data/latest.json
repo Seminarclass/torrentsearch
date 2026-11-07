@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:26:41.748Z",
+  "generatedAt": "2026-11-07T15:58:45.080Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -11,7 +11,7 @@
     "windows"
   ],
   "category": "all",
-  "totalResults": 26,
+  "totalResults": 25,
   "totalProviders": 11,
   "providers": [
     {
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1096
+      "totalMs": 981
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 2870
+      "totalMs": 1902
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 4866
+      "totalMs": 2697
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 514
+      "totalMs": 606
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 190,
       "ok": true,
-      "totalMs": 8821
+      "totalMs": 8207
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 878
+      "totalMs": 329
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2873
+      "totalMs": 2172
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 931
+      "totalMs": 583
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 1064
+      "totalMs": 699
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
-      "ok": false,
-      "totalMs": 32020
+      "ok": true,
+      "totalMs": 2647
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2903
+      "totalMs": 2996
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 1,
       "completed": 266,
       "date": "2022-02-03 14:26",
@@ -128,12 +128,29 @@
       "query": "debian"
     },
     {
+      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "67.1 MiB",
+      "sizeBytes": 70359450,
+      "seeders": 2,
+      "leechers": 0,
+      "completed": 269,
+      "date": "2014-12-25 18:57",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/638686",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
       "magnet": "",
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 3,
+      "seeders": 2,
       "leechers": 0,
       "completed": 27,
       "date": "2015-03-06 16:33",
@@ -145,19 +162,19 @@
       "query": "linux"
     },
     {
-      "name": "(一般書籍) [開発] Linuxコマンドリファレンス.pdf",
+      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
       "magnet": "",
       "torrentFile": "",
-      "size": "67.1 MiB",
-      "sizeBytes": 70359450,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 269,
-      "date": "2014-12-25 18:57",
+      "size": "413.3 MiB",
+      "sizeBytes": 433376461,
+      "seeders": 2,
+      "leechers": 3,
+      "completed": 164,
+      "date": "2026-10-15 14:00",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/638686",
+      "detailsUrl": "/view/2174277#comments",
       "description": "",
       "query": "linux"
     },
@@ -192,23 +209,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1013299#comments",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "413.3 MiB",
-      "sizeBytes": 433376461,
-      "seeders": 1,
-      "leechers": 2,
-      "completed": 164,
-      "date": "2026-10-15 14:00",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2174277#comments",
       "description": "",
       "query": "linux"
     },
@@ -269,7 +269,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 139,
+      "seeders": 143,
       "leechers": 2,
       "completed": 2408,
       "date": "2026-09-05 09:05",
@@ -286,7 +286,7 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 118,
+      "seeders": 113,
       "leechers": 1,
       "completed": 2415,
       "date": "2026-08-08 09:02",
@@ -303,7 +303,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 89,
+      "seeders": 85,
       "leechers": 1,
       "completed": 2279,
       "date": "2026-07-25 09:02",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 70,
+      "seeders": 71,
       "leechers": 1,
       "completed": 2072,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1010.1 MiB",
       "sizeBytes": 1059166618,
-      "seeders": 67,
+      "seeders": 69,
       "leechers": 0,
       "completed": 2210,
       "date": "2026-06-27 09:05",
@@ -355,8 +355,8 @@
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
       "seeders": 50,
-      "leechers": 1,
-      "completed": 1418,
+      "leechers": 2,
+      "completed": 1420,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -366,29 +366,12 @@
       "query": "arch"
     },
     {
-      "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.4 GiB",
-      "sizeBytes": 1503238554,
-      "seeders": 42,
-      "leechers": 0,
-      "completed": 945,
-      "date": "2026-07-25 09:32",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2137027",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "Ascendance of a Bookworm S04E14 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 40,
+      "seeders": 41,
       "leechers": 0,
       "completed": 933,
       "date": "2026-07-18 09:31",
@@ -400,14 +383,31 @@
       "query": "arch"
     },
     {
+      "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.4 GiB",
+      "sizeBytes": 1503238554,
+      "seeders": 41,
+      "leechers": 0,
+      "completed": 945,
+      "date": "2026-07-25 09:32",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2137027",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "Mario Kart 8 Deluxe v3.0.1 DLC Wave 6 COMPLETE + Yuzu EA 4176 [MK8D PC Windows] - SEPH1",
       "magnet": "",
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 19,
+      "seeders": 28,
       "leechers": 0,
-      "completed": 7601,
+      "completed": 7605,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 12,
-      "leechers": 1,
-      "completed": 4997,
+      "seeders": 11,
+      "leechers": 3,
+      "completed": 4998,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -434,29 +434,12 @@
       "query": "windows"
     },
     {
-      "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "302.0 MiB",
-      "sizeBytes": 316669952,
-      "seeders": 3,
-      "leechers": 0,
-      "completed": 132,
-      "date": "2025-04-01 09:54",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1954600#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
       "magnet": "",
       "torrentFile": "",
       "size": "434.3 MiB",
       "sizeBytes": 455396557,
-      "seeders": 3,
+      "seeders": 4,
       "leechers": 0,
       "completed": 348,
       "date": "2025-09-18 17:31",
@@ -468,19 +451,19 @@
       "query": "windows"
     },
     {
-      "name": "Windows 100% UTAU Perfect Master + Macne & Defo VBs [DVD]",
+      "name": "ある日の子ザメ | Aru Hi no Kozame (Little Shark's Outings/Odekake Kozame Minigame) [Japanese] [PC Windows/Wine]",
       "magnet": "",
       "torrentFile": "",
-      "size": "7.2 GiB",
-      "sizeBytes": 7730941133,
-      "seeders": 3,
+      "size": "116.4 MiB",
+      "sizeBytes": 122054246,
+      "seeders": 4,
       "leechers": 0,
-      "completed": 494,
-      "date": "2020-07-12 23:36",
+      "completed": 115,
+      "date": "2026-07-24 07:40",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1262215",
+      "detailsUrl": "/view/2136680",
       "description": "",
       "query": "windows"
     },
@@ -490,7 +473,7 @@
       "torrentFile": "",
       "size": "6.9 GiB",
       "sizeBytes": 7408818586,
-      "seeders": 2,
+      "seeders": 3,
       "leechers": 0,
       "completed": 3161,
       "date": "2016-09-08 05:46",
@@ -502,36 +485,36 @@
       "query": "windows"
     },
     {
-      "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
+      "name": "Black Magic [Windows 95 PC / 1997] (ブラックマジック) 士郎正宗/SHIROW Masamune,",
       "magnet": "",
       "torrentFile": "",
-      "size": "874.5 MiB",
-      "sizeBytes": 916979712,
-      "seeders": 2,
+      "size": "23.6 MiB",
+      "sizeBytes": 24746394,
+      "seeders": 3,
       "leechers": 0,
-      "completed": 129,
-      "date": "2026-09-21 20:14",
+      "completed": 425,
+      "date": "2020-02-01 11:49",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2164743#comments",
+      "detailsUrl": "/view/1217160",
       "description": "",
       "query": "windows"
     },
     {
-      "name": "3 Vampire Hurts (ヴァンパイアハーツ) PC Game (Windows 98/ME/2000/XP) [JPN] (2002)",
+      "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
       "magnet": "",
       "torrentFile": "",
-      "size": "689.4 MiB",
-      "sizeBytes": 722888294,
+      "size": "302.0 MiB",
+      "sizeBytes": 316669952,
       "seeders": 2,
-      "leechers": 1,
-      "completed": 310,
-      "date": "2020-01-05 00:55",
+      "leechers": 0,
+      "completed": 132,
+      "date": "2025-04-01 09:54",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/1209354#comments",
+      "detailsUrl": "/view/1954600#comments",
       "description": "",
       "query": "windows"
     }
