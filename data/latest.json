@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:49:16.093Z",
+  "generatedAt": "2026-11-22T09:06:10.449Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 1101
+      "totalMs": 463
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 737
+      "totalMs": 619
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 2861
+      "totalMs": 3044
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 392
+      "totalMs": 376
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 191,
       "ok": true,
-      "totalMs": 8065
+      "totalMs": 8150
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 460
+      "totalMs": 330
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 1692
+      "totalMs": 1967
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 542
+      "totalMs": 468
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 561
+      "totalMs": 455
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 606
+      "totalMs": 438
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2764
+      "totalMs": 1925
     }
   ],
   "results": [
@@ -100,7 +100,7 @@
       "size": "624.0 MiB",
       "sizeBytes": 654311424,
       "seeders": 0,
-      "leechers": 1,
+      "leechers": 2,
       "completed": 0,
       "date": "2009-11-03 07:03",
       "category": "Anime",
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 6,
+      "seeders": 7,
       "leechers": 0,
       "completed": 268,
       "date": "2022-02-03 14:26",
@@ -134,8 +134,8 @@
       "size": "456.4 MiB",
       "sizeBytes": 478570086,
       "seeders": 4,
-      "leechers": 4,
-      "completed": 134,
+      "leechers": 2,
+      "completed": 136,
       "date": "2026-11-14 12:17",
       "category": "Anime",
       "provider": "Nyaa",
@@ -150,7 +150,7 @@
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 2,
+      "seeders": 3,
       "leechers": 0,
       "completed": 28,
       "date": "2015-03-06 16:33",
@@ -213,23 +213,6 @@
       "query": "linux"
     },
     {
-      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "413.3 MiB",
-      "sizeBytes": 433376461,
-      "seeders": 1,
-      "leechers": 0,
-      "completed": 182,
-      "date": "2026-10-15 14:00",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2174277#comments",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "[4LS]ks_a1_[linux-x86][FFD2F7FD].tar.bz2",
       "magnet": "",
       "torrentFile": "",
@@ -264,14 +247,31 @@
       "query": "linux"
     },
     {
+      "name": "[Linux] Disgaea 2 PC",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "777.4 MiB",
+      "sizeBytes": 815162982,
+      "seeders": 0,
+      "leechers": 0,
+      "completed": 100,
+      "date": "2020-11-12 05:15",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/1301343",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "[ToonsHub] Honzuki no Gekokujou S04E20 1080p AMZN WEB-DL DDP2.0 H.264 (Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 122,
+      "seeders": 121,
       "leechers": 0,
-      "completed": 2417,
+      "completed": 2418,
       "date": "2026-09-05 09:05",
       "category": "Anime",
       "provider": "Nyaa",
@@ -320,7 +320,7 @@
       "torrentFile": "",
       "size": "1.1 GiB",
       "sizeBytes": 1181116006,
-      "seeders": 71,
+      "seeders": 64,
       "leechers": 0,
       "completed": 2076,
       "date": "2026-07-18 09:02",
@@ -337,7 +337,7 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 41,
+      "seeders": 42,
       "leechers": 0,
       "completed": 1459,
       "date": "2026-08-30 03:09",
@@ -349,29 +349,12 @@
       "query": "arch"
     },
     {
-      "name": "Ascendance of a Bookworm S04E14 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.4 GiB",
-      "sizeBytes": 1503238554,
-      "seeders": 36,
-      "leechers": 0,
-      "completed": 946,
-      "date": "2026-07-18 09:31",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2134100",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 36,
+      "seeders": 41,
       "leechers": 0,
       "completed": 958,
       "date": "2026-07-25 09:32",
@@ -383,12 +366,29 @@
       "query": "arch"
     },
     {
+      "name": "Ascendance of a Bookworm S04E14 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.4 GiB",
+      "sizeBytes": 1503238554,
+      "seeders": 38,
+      "leechers": 0,
+      "completed": 946,
+      "date": "2026-07-18 09:31",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2134100",
+      "description": "",
+      "query": "arch"
+    },
+    {
       "name": "Ascendance of a Bookworm S04E16 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 33,
+      "seeders": 37,
       "leechers": 0,
       "completed": 897,
       "date": "2026-08-01 09:32",
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 21,
+      "seeders": 24,
       "leechers": 4,
-      "completed": 7721,
+      "completed": 7723,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,8 +422,8 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 11,
-      "leechers": 0,
+      "seeders": 12,
+      "leechers": 1,
       "completed": 5043,
       "date": "2024-04-26 21:44",
       "category": "Anime",
@@ -434,29 +434,12 @@
       "query": "windows"
     },
     {
-      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "434.3 MiB",
-      "sizeBytes": 455396557,
-      "seeders": 7,
-      "leechers": 0,
-      "completed": 351,
-      "date": "2025-09-18 17:31",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2021233#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
       "name": "1 [WOWmd-raw] Candy Box (Windows 95)",
       "magnet": "",
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 6,
       "leechers": 0,
       "completed": 133,
       "date": "2025-04-01 09:54",
@@ -468,14 +451,31 @@
       "query": "windows"
     },
     {
+      "name": "3 (Windows) Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Console Porting / Remake Version",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "434.3 MiB",
+      "sizeBytes": 455396557,
+      "seeders": 5,
+      "leechers": 0,
+      "completed": 351,
+      "date": "2025-09-18 17:31",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2021233#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
       "name": "1 NEEDY STREAMER OVERLOAD / NEEDY GIRL OVERDOSE [v1.4.0] [Build 16146878] [Windows]",
       "magnet": "",
       "torrentFile": "",
       "size": "874.5 MiB",
       "sizeBytes": 916979712,
-      "seeders": 3,
+      "seeders": 4,
       "leechers": 0,
-      "completed": 144,
+      "completed": 145,
       "date": "2026-09-21 20:14",
       "category": "Anime",
       "provider": "Nyaa",
