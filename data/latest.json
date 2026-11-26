@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:54:59.419Z",
+  "generatedAt": "2026-11-26T06:04:08.339Z",
   "queries": [
     "ubuntu",
     "debian",
@@ -19,77 +19,77 @@
       "name": "Academic Torrents",
       "hits": 0,
       "ok": true,
-      "totalMs": 673
+      "totalMs": 1098
     },
     {
       "id": "archive",
       "name": "Internet Archive",
       "hits": 0,
       "ok": true,
-      "totalMs": 582
+      "totalMs": 981
     },
     {
       "id": "linuxtracker",
       "name": "LinuxTracker",
       "hits": 0,
       "ok": true,
-      "totalMs": 3528
+      "totalMs": 2547
     },
     {
       "id": "eztv",
       "name": "EZTV",
       "hits": 0,
       "ok": true,
-      "totalMs": 501
+      "totalMs": 392
     },
     {
       "id": "nyaa",
       "name": "Nyaa",
       "hits": 191,
       "ok": true,
-      "totalMs": 8192
+      "totalMs": 8232
     },
     {
       "id": "yts",
       "name": "YTS",
       "hits": 0,
       "ok": true,
-      "totalMs": 457
+      "totalMs": 529
     },
     {
       "id": "knaben",
       "name": "Knaben",
       "hits": 0,
       "ok": true,
-      "totalMs": 2275
+      "totalMs": 1642
     },
     {
       "id": "bitsearch",
       "name": "BitSearch",
       "hits": 0,
       "ok": true,
-      "totalMs": 675
+      "totalMs": 508
     },
     {
       "id": "tokyotoshokan",
       "name": "TokyoToshokan",
       "hits": 0,
       "ok": true,
-      "totalMs": 770
+      "totalMs": 605
     },
     {
       "id": "torrentdownload",
       "name": "TorrentDownload",
       "hits": 0,
       "ok": true,
-      "totalMs": 864
+      "totalMs": 556
     },
     {
       "id": "1337x",
       "name": "1337x",
       "hits": 0,
       "ok": true,
-      "totalMs": 2541
+      "totalMs": 2366
     }
   ],
   "results": [
@@ -116,7 +116,7 @@
       "torrentFile": "",
       "size": "16.2 GiB",
       "sizeBytes": 17394617549,
-      "seeders": 6,
+      "seeders": 5,
       "leechers": 0,
       "completed": 268,
       "date": "2022-02-03 14:26",
@@ -128,29 +128,12 @@
       "query": "debian"
     },
     {
-      "name": "EPUBShelf v2.2.3 [A light novel manager][Linux, Windows, macOS]",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "456.4 MiB",
-      "sizeBytes": 478570086,
-      "seeders": 4,
-      "leechers": 3,
-      "completed": 146,
-      "date": "2026-11-14 12:17",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2185969",
-      "description": "",
-      "query": "linux"
-    },
-    {
       "name": "[CG] Mawaru Penguindrum Linux Desktop [AF0C2336].mp4",
       "magnet": "",
       "torrentFile": "",
       "size": "99.4 MiB",
       "sizeBytes": 104228454,
-      "seeders": 2,
+      "seeders": 3,
       "leechers": 0,
       "completed": 28,
       "date": "2015-03-06 16:33",
@@ -158,6 +141,23 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/662994",
+      "description": "",
+      "query": "linux"
+    },
+    {
+      "name": "EPUBShelf v2.2.3 [A light novel manager][Linux, Windows, macOS]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "456.4 MiB",
+      "sizeBytes": 478570086,
+      "seeders": 3,
+      "leechers": 5,
+      "completed": 146,
+      "date": "2026-11-14 12:17",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2185969",
       "description": "",
       "query": "linux"
     },
@@ -213,6 +213,23 @@
       "query": "linux"
     },
     {
+      "name": "4 EPUBShelf v2.0.0 [A light novel manager][Linux, Windows, macOS]",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "413.3 MiB",
+      "sizeBytes": 433376461,
+      "seeders": 1,
+      "leechers": 0,
+      "completed": 183,
+      "date": "2026-10-15 14:00",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2174277#comments",
+      "description": "",
+      "query": "linux"
+    },
+    {
       "name": "[4LS]ks_a1_[linux-x86][FFD2F7FD].tar.bz2",
       "magnet": "",
       "torrentFile": "",
@@ -236,30 +253,13 @@
       "size": "2.9 GiB",
       "sizeBytes": 3113851290,
       "seeders": 0,
-      "leechers": 0,
+      "leechers": 1,
       "completed": 0,
       "date": "2010-12-21 21:28",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/181405",
-      "description": "",
-      "query": "linux"
-    },
-    {
-      "name": "[Linux] Disgaea 2 PC",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "777.4 MiB",
-      "sizeBytes": 815162982,
-      "seeders": 0,
-      "leechers": 0,
-      "completed": 100,
-      "date": "2020-11-12 05:15",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/1301343",
       "description": "",
       "query": "linux"
     },
@@ -286,9 +286,9 @@
       "torrentFile": "",
       "size": "1.0 GiB",
       "sizeBytes": 1073741824,
-      "seeders": 89,
+      "seeders": 88,
       "leechers": 0,
-      "completed": 2422,
+      "completed": 2423,
       "date": "2026-08-08 09:02",
       "category": "Anime",
       "provider": "Nyaa",
@@ -337,9 +337,9 @@
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 36,
-      "leechers": 1,
-      "completed": 1462,
+      "seeders": 39,
+      "leechers": 0,
+      "completed": 1464,
       "date": "2026-08-30 03:09",
       "category": "Anime",
       "provider": "Nyaa",
@@ -349,29 +349,12 @@
       "query": "arch"
     },
     {
-      "name": "Ascendance of a Bookworm S04E14 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "1.4 GiB",
-      "sizeBytes": 1503238554,
-      "seeders": 34,
-      "leechers": 0,
-      "completed": 953,
-      "date": "2026-07-18 09:31",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2134100",
-      "description": "",
-      "query": "arch"
-    },
-    {
       "name": "Ascendance of a Bookworm S04E15 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 34,
+      "seeders": 37,
       "leechers": 0,
       "completed": 965,
       "date": "2026-07-25 09:32",
@@ -383,19 +366,36 @@
       "query": "arch"
     },
     {
-      "name": "Ascendance of a Bookworm S04E13 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "name": "Ascendance of a Bookworm S04E14 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
       "magnet": "",
       "torrentFile": "",
       "size": "1.4 GiB",
       "sizeBytes": 1503238554,
-      "seeders": 32,
+      "seeders": 36,
       "leechers": 0,
-      "completed": 921,
-      "date": "2026-07-11 09:34",
+      "completed": 953,
+      "date": "2026-07-18 09:31",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
-      "detailsUrl": "/view/2130928",
+      "detailsUrl": "/view/2134100",
+      "description": "",
+      "query": "arch"
+    },
+    {
+      "name": "Ascendance of a Bookworm S04E12 VOSTFR 1080p WEB x264 AAC -Tsundere-Raws (CR) (Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo,Ascendance of a Bookworm: Adopted Daughter of an Archduke)",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "1.4 GiB",
+      "sizeBytes": 1503238554,
+      "seeders": 34,
+      "leechers": 0,
+      "completed": 1024,
+      "date": "2026-06-27 09:33",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/2125796",
       "description": "",
       "query": "arch"
     },
@@ -405,9 +405,9 @@
       "torrentFile": "",
       "size": "11.8 GiB",
       "sizeBytes": 12670153523,
-      "seeders": 24,
-      "leechers": 5,
-      "completed": 7740,
+      "seeders": 23,
+      "leechers": 2,
+      "completed": 7742,
       "date": "2024-04-26 20:13",
       "category": "Anime",
       "provider": "Nyaa",
@@ -422,9 +422,9 @@
       "torrentFile": "",
       "size": "18.0 GiB",
       "sizeBytes": 19327352832,
-      "seeders": 10,
+      "seeders": 8,
       "leechers": 1,
-      "completed": 5054,
+      "completed": 5055,
       "date": "2024-04-26 21:44",
       "category": "Anime",
       "provider": "Nyaa",
@@ -456,7 +456,7 @@
       "torrentFile": "",
       "size": "302.0 MiB",
       "sizeBytes": 316669952,
-      "seeders": 5,
+      "seeders": 4,
       "leechers": 0,
       "completed": 133,
       "date": "2025-04-01 09:54",
@@ -474,13 +474,30 @@
       "size": "13.2 GiB",
       "sizeBytes": 14173392077,
       "seeders": 3,
-      "leechers": 1,
+      "leechers": 2,
       "completed": 1252,
       "date": "2023-06-05 00:12",
       "category": "Anime",
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/1679300#comments",
+      "description": "",
+      "query": "windows"
+    },
+    {
+      "name": "│2D.G.F.│ ＊自炊品 [160826] [5pb.／ホビボックス] STEINS；GATE 0 -シュタインズ・ゲート・ゼロ- for Windows PC DL版 + 同梱特典 RemixMedley",
+      "magnet": "",
+      "torrentFile": "",
+      "size": "6.9 GiB",
+      "sizeBytes": 7408818586,
+      "seeders": 2,
+      "leechers": 1,
+      "completed": 3164,
+      "date": "2016-09-08 05:46",
+      "category": "Anime",
+      "provider": "Nyaa",
+      "providerId": "nyaa",
+      "detailsUrl": "/view/848204",
       "description": "",
       "query": "windows"
     },
@@ -498,23 +515,6 @@
       "provider": "Nyaa",
       "providerId": "nyaa",
       "detailsUrl": "/view/2164743#comments",
-      "description": "",
-      "query": "windows"
-    },
-    {
-      "name": "Atelier Ryza : Les Ténèbres éternelles et la Base secrète - PATCH FR (PC Windows) version 1.00",
-      "magnet": "",
-      "torrentFile": "",
-      "size": "412.8 MiB",
-      "sizeBytes": 432852173,
-      "seeders": 2,
-      "leechers": 0,
-      "completed": 93,
-      "date": "2025-08-05 18:19",
-      "category": "Anime",
-      "provider": "Nyaa",
-      "providerId": "nyaa",
-      "detailsUrl": "/view/2002557",
       "description": "",
       "query": "windows"
     }
